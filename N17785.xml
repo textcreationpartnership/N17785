@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:023035_0000_0FBAE0FF63EBD0E8"/>
-            <pb facs="tcp:023035_0001_0FBAE100EB469D00" rendition="simple:additions"/>
+            <pb facs="unknown:023035_0000_0FBAE0FF63EBD0E8"/>
+            <pb facs="unknown:023035_0001_0FBAE100EB469D00"
+                rendition="simple:additions"/>
             <p>POEMS, DRAMATIC AND MISCELLANEOUS.</p>
             <p>BY MRS. M. WARREN.</p>
             <q>
@@ -126,19 +127,19 @@
                </gap>, NEWBURY STREET. MDCCXC.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:023035_0002_0FBAE10267B4A858"/>
+            <pb facs="unknown:023035_0002_0FBAE10267B4A858"/>
             <head>TO GEORGE WASHINGTON, PRESIDENT OF THE UNITED STATES OF AMERICA.</head>
             <opener>
                <salute>SIR,</salute>
             </opener>
             <p>AMBITIOUS to avoid both the ſtyle and the ſentiment of common dedica<g ref="char:EOLhyphen"/>tion, more frequently the incenſe of adu<g ref="char:EOLhyphen"/>lation, than the reſult of truth, I only aſk the illuſtrious Waſhington to permit a lady of his acquaintance, to introduce to the public, under his patronage, a ſmall volume, written as the amuſement of ſolitude, at a period when every active member of ſociety was engaged, either in the field, or the cab<g ref="char:EOLhyphen"/>inet, to reſiſt the ſtrong hand of foreign domination.</p>
             <p>
-               <pb n="iv" facs="tcp:023035_0003_0FBAE103E27303F8"/>THE approbation of one who has united all hearts in the field of conqueſt, in the lap of peace, and at the head of the government of the United States, muſt, for a time, give countenance to a writer, who, claiming the honour of private friendſhip, hopes for this indulgence: But it muſt be a bold adven<g ref="char:EOLhyphen"/>turer in the paths of literature, who dreams of fame, in any degree commenſurate with the duration of laurels reaped by an hero, who has led the armies of America to glory, victory and independence.</p>
+               <pb n="iv" facs="unknown:023035_0003_0FBAE103E27303F8"/>THE approbation of one who has united all hearts in the field of conqueſt, in the lap of peace, and at the head of the government of the United States, muſt, for a time, give countenance to a writer, who, claiming the honour of private friendſhip, hopes for this indulgence: But it muſt be a bold adven<g ref="char:EOLhyphen"/>turer in the paths of literature, who dreams of fame, in any degree commenſurate with the duration of laurels reaped by an hero, who has led the armies of America to glory, victory and independence.</p>
             <p>THIS may, perhaps, be an improper place to make many obſervations on a revolution, that may eventually ſhake the proud ſyſ<g ref="char:EOLhyphen"/>tems of European deſpotiſm; yet you, ſir, (who have borne ſuch a diſtinguiſhed and honourable part in the great conflict, till
-<pb n="v" facs="tcp:023035_0004_0FBAE105AC225AE8"/>
+<pb n="v" facs="unknown:023035_0004_0FBAE105AC225AE8"/>
 the nations, wearied with ſlaughter, gave truce to the miſeries of man) will permit me to obſerve, that, connected by conſan<g ref="char:EOLhyphen"/>guinity, or friendſhip, with many of the principal characters who aſſerted and de<g ref="char:EOLhyphen"/>fended the rights of an injured country, the mind has been naturally led to contemplate the magnitude, both of the cauſes and the conſequences, of a convulſion that has been felt from the eaſtern borders of the Atlantic, to the weſtern wilds.</p>
             <p>FEELING much for the diſtreſſes of America, in the dark days of her affliction, a faithful record has been kept, of the moſt material tranſactions, through a period that has engaged the attention, both of the phi<g ref="char:EOLhyphen"/>loſopher and the politician; and, if life is ſpared, a juſt trait of the moſt diſtinguiſhed
-<pb n="vi" facs="tcp:023035_0005_0FBAE106E883D380"/>
+<pb n="vi" facs="unknown:023035_0005_0FBAE106E883D380"/>
 characters, either for valour, virtue, or pat<g ref="char:EOLhyphen"/>riotiſm; for perfidy, intrigue, inconſiſtency, or ingratitude, ſhall be faithfully tranſmitted to poſterity, by one, who unites in the gen<g ref="char:EOLhyphen"/>eral wiſh, that you, ſir, may continue to preſide in the midſt of your brethren, until nature aſks the aid of retirement and re<g ref="char:EOLhyphen"/>poſe, to tranquilize the laſt ſtages of hu<g ref="char:EOLhyphen"/>man life.</p>
             <p>With every ſentiment of eſteem and friendſhip, I am, reſpected Sir,</p>
             <closer>
@@ -151,7 +152,7 @@ characters, either for valour, virtue, or pat<g ref="char:EOLhyphen"/>riotiſm; 
             </closer>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:023035_0006_0FBAE108833EAC58"/>
+            <pb facs="unknown:023035_0006_0FBAE108833EAC58"/>
             <head>TABLE of CONTENTS.</head>
             <list>
                <item>
@@ -194,7 +195,7 @@ characters, either for valour, virtue, or pat<g ref="char:EOLhyphen"/>riotiſm; 
                   <hi>XIII.</hi> To Honoria, on her Journey to Dover. <hi>Page 216</hi>
                </item>
                <item>
-                  <pb n="viii" facs="tcp:023035_0007_0FBAE10CEA930C40"/>
+                  <pb n="viii" facs="unknown:023035_0007_0FBAE10CEA930C40"/>
                   <hi>XIV.</hi> Lines, written after a Tempeſt. <hi>Page 219</hi>
                </item>
                <item>
@@ -218,22 +219,22 @@ characters, either for valour, virtue, or pat<g ref="char:EOLhyphen"/>riotiſm; 
             </list>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:023035_0008_0FBAE10FE4519F68"/>
+            <pb facs="unknown:023035_0008_0FBAE10FE4519F68"/>
             <head>TO THE PUBLIC.</head>
             <p>ALMOST every page of the ſtory of Rome, exhibits a tragedy, without the exaggeration of poetic fiction; yet there are few of its intereſting ſcenes, that have not furniſhed the machinery for ſome dramatic work. But, amidſt the innumer<g ref="char:EOLhyphen"/>able writers, that almoſt every age has produced, the author of a piece, now offered the public, does not recollect to have ſeen the weakneſs and cruelty of <hi>Valentinian</hi>—the character of <hi>Petronius Maximus</hi>—the reſentment, indiſcretion and re<g ref="char:EOLhyphen"/>venge of <hi>Edoxia</hi>—(the more immediate cauſes of the inva<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> of the imperial city, by the Vandals)—choſen for the ſubject of theatrical inſtruction.</p>
             <p>The ſubverſion of the weſtern empire, and the Sack of the city of Rome, by <hi>Genſeric,</hi> form an era in the revolution of human affairs, that ſtrikes the mind with peculiar ſolemnity: Perhaps, at that period, the character of man was ſunk to the loweſt ſtage of depravity. Debilitated by the habits of every ſpecies of luxury, a long ſeries of tragical events, and the con<g ref="char:EOLhyphen"/>tinual apprehenſions of proſcription, or death; the powers of
-<pb n="10" facs="tcp:023035_0009_0FBAE11169AD8E40"/>
+<pb n="10" facs="unknown:023035_0009_0FBAE11169AD8E40"/>
 the mind were, at the ſame time, obſcured by the ſuperſtitions of weak, uninformed chriſtians, blended with the barbariſic and ignorance of the darker ages.</p>
             <p>Thus an impenetrable cloſed was thrown over the religious and political inſtitutions, both of the Roman and the Gothic world; which haſtened on the deſtruction of the former, with<g ref="char:EOLhyphen"/>out exhibiting any thing more honourable to the genius and vir<g ref="char:EOLhyphen"/>tue of mankind, in the eſtabliſhment of the latter; nor have more enlightened and poliſhed ages been taught, by their ex<g ref="char:EOLhyphen"/>amples, to ſhun the luxurious vices, or the abſurd ſyſtems of policy, which have frequently corrupted, diſtracted, and ru<g ref="char:EOLhyphen"/>ined the beſt conſtituted republics; as well as divided and overturned the ſtrong fabric of monarchic government.</p>
             <p>In tracing the riſe, the character, the revolutions, and the full of the moſt politic and brave, the moſt inſolent and ſelfiſh people, the world ever exhibited, the hero and the moraliſt may find the moſt ſublime examples of valour and virtue; and the philoſopher the moſt humiliating leſſons to the pride of man, in the turpitude of ſome of their capital characters: While the extenſive dominions of that once celebrated nation, their haugh<g ref="char:EOLhyphen"/>ty
-<pb n="11" facs="tcp:023035_0010_0FBAE1130E415678"/>
+<pb n="11" facs="unknown:023035_0010_0FBAE1130E415678"/>
 uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and the poet with a field of ſpeculation, adapted to his own peculiar talents. But if the writer of the <hi>Sack of Rome</hi> has miſtaken her's, ſhe will, doubtleſs, be forgiven, as there have been inſtances of men of the beſt abilities who have fallen into the ſame error.</p>
             <p>There is but little mixture of fable in the narration, and, I hope, a juſt purity of ſtile has been obſerved, while the writer has aimed at moral improvement, by an exhibition of the tu<g ref="char:EOLhyphen"/>mult and miſery into which mankind are often plunged by an unwarrantable indulgence of the diſcordant paſſions of the hu<g ref="char:EOLhyphen"/>man mind.</p>
             <p>Theatrical amuſements may, ſometimes, have been proſtituted to the purpoſes of vice; yet, in an age of taſte and refinement, leſſons of morality, and the conſequences of deviation, may per<g ref="char:EOLhyphen"/>haps, be as ſucceſsfully enforced from the ſtage, as by modes of inſtruction, leſs cenſured by the ſevere; while, at the ſame time, the exhibition of great hiſtorical events, opens a field of contemplation to the reflecting and philoſophic mind.</p>
             <p>
-               <pb n="12" facs="tcp:023035_0011_0FBAE11466701E50"/>My firſt wiſh is to throw a mite into the ſcale of virtue, and my higheſt ambition to meet the approbation of the judi<g ref="char:EOLhyphen"/>cious and worthy:—In the one, I am gratified from the re<g ref="char:EOLhyphen"/>flections of my own heart; for the other, I wait with diffi<g ref="char:EOLhyphen"/>dence the determinations of the candid public.</p>
+               <pb n="12" facs="unknown:023035_0011_0FBAE11466701E50"/>My firſt wiſh is to throw a mite into the ſcale of virtue, and my higheſt ambition to meet the approbation of the judi<g ref="char:EOLhyphen"/>cious and worthy:—In the one, I am gratified from the re<g ref="char:EOLhyphen"/>flections of my own heart; for the other, I wait with diffi<g ref="char:EOLhyphen"/>dence the determinations of the candid public.</p>
             <closer>
                <signed>M. W.</signed>
             </closer>
@@ -267,11 +268,11 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
       </front>
       <body>
          <div type="half_title">
-            <pb facs="tcp:023035_0012_0FBAE115E375D5C8"/>
+            <pb facs="unknown:023035_0012_0FBAE115E375D5C8"/>
             <p>THE SACK of ROME. A TRAGEDY, IN FIVE ACTS.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:023035_0013_0FBAE11767C5D6C8"/>
+            <pb facs="unknown:023035_0013_0FBAE11767C5D6C8"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <head>MEN.</head>
@@ -313,7 +314,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
             <p>SENATORS, SOLDIERS, SERVANTS, &amp;c. &amp;c.</p>
          </div>
          <div type="play">
-            <pb facs="tcp:023035_0014_0FBAE11917188960"/>
+            <pb facs="unknown:023035_0014_0FBAE11917188960"/>
             <head>THE SACK of ROME.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -337,7 +338,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Uſurp'd and ſtretch'd o'er all her wide domain,</l>
                      <l>And proudly held by her remorſeleſs ſword;</l>
                      <l>
-                        <pb n="16" facs="tcp:023035_0015_0FBAE11D1F325400"/>Her inſolence, her ſtubbornneſs of ſoul,</l>
+                        <pb n="16" facs="unknown:023035_0015_0FBAE11D1F325400"/>Her inſolence, her ſtubbornneſs of ſoul,</l>
                      <l>That trod down nations, trampled on the neck<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>
@@ -381,7 +382,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>She yet might reign from Danube to the Po.</l>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:023035_0016_0FBAE11EE9500CC0"/>
+                     <pb n="17" facs="unknown:023035_0016_0FBAE11EE9500CC0"/>
                      <speaker>AETIUS.</speaker>
                      <l>There's little hope from ſuch a noble ſource;</l>
                      <l>So chang'd her manners, ſo debas'd the mind</l>
@@ -424,7 +425,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Say, what new foe has Rome? I am prepar'd.</l>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:023035_0017_0FBAE120BA96D338"/>
+                     <pb n="18" facs="unknown:023035_0017_0FBAE120BA96D338"/>
                      <speaker>LEO.</speaker>
                      <l>I come to hail the valiant friend of Rome,</l>
                      <l>Whoſe arm and proweſs are her beſt ſupport<g ref="char:punc">▪</g>
@@ -471,7 +472,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>From his ſoft ſlumbering lethargy of ſoul?</l>
                   </sp>
                   <sp>
-                     <pb n="19" facs="tcp:023035_0018_0FBAE122A6355F40"/>
+                     <pb n="19" facs="unknown:023035_0018_0FBAE122A6355F40"/>
                      <speaker>LEO.</speaker>
                      <l>Supinely ſunk in dreams of wanton bliſs,</l>
                      <l>Ignoble pleaſures of a ſplendid court,</l>
@@ -516,7 +517,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Than the diſcreet, the excellent Ardelia;</l>
                      <l>Nor can ſhe forfeit by a ſhameful fall</l>
                      <l>
-                        <pb n="20" facs="tcp:023035_0019_0FBAE124221F9498"/>That modeſty, and grace, and decent pride,</l>
+                        <pb n="20" facs="unknown:023035_0019_0FBAE124221F9498"/>That modeſty, and grace, and decent pride,</l>
                      <l>That dignifies, nor leſs adorns, the ſex.</l>
                   </sp>
                   <sp>
@@ -557,7 +558,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Can e'er obliterate that love, that friendſhip,</l>
                      <l>Merit makes thy own, and worth commands:</l>
                      <l>
-                        <pb n="21" facs="tcp:023035_0020_0FBAE125A7537970"/>Give me thy hand—thou know'ſt my heart is thine,</l>
+                        <pb n="21" facs="unknown:023035_0020_0FBAE125A7537970"/>Give me thy hand—thou know'ſt my heart is thine,</l>
                      <l>Nor can I more until we meet again.</l>
                   </sp>
                   <sp>
@@ -606,7 +607,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Nor yet the ſecret worm that gnaws my heart.</l>
                      <l>Myſelf forgot in an ignoble vice,</l>
                      <l>
-                        <pb n="22" facs="tcp:023035_0021_0FBAE1278D60CA18"/>A vice below the dignity of man,</l>
+                        <pb n="22" facs="unknown:023035_0021_0FBAE1278D60CA18"/>A vice below the dignity of man,</l>
                      <l>Without temptation but in avarice,</l>
                      <l>A blacker paſſion ſtill—fate threw the die,</l>
                      <l>Or by ſuperiour ſkill the emperor won</l>
@@ -645,7 +646,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>As truth and virtue dignifi'd my bliſs,</l>
                      <l>The gods alone who judge of ſpotleſs worth,</l>
                      <l>
-                        <pb n="23" facs="tcp:023035_0022_0FBAE128A9D778B8"/>Muſt clear her fame, and vindicate my own;</l>
+                        <pb n="23" facs="unknown:023035_0022_0FBAE128A9D778B8"/>Muſt clear her fame, and vindicate my own;</l>
                      <l>Or let their vengeance pour in dreadful peals</l>
                      <l>Their heated bolts—till choſen curſes fall,</l>
                      <l>In blaſts diſtinguiſh'd, on the emperor's head.</l>
@@ -683,7 +684,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>To venture on the threſhold of a court,</l>
                      <l>Leſt it melt down thy valour or thy fame?</l>
                      <l>
-                        <pb n="24" facs="tcp:023035_0023_0FBAE12A6A5C3148"/>Or does ſoft hope preſent th' hymenial torch,</l>
+                        <pb n="24" facs="unknown:023035_0023_0FBAE12A6A5C3148"/>Or does ſoft hope preſent th' hymenial torch,</l>
                      <l>Rekindle in thy breaſt a lover's flame,</l>
                      <l>And bring the fair Eudocia to thine eye?</l>
                      <l>Thy valour claims her from the emperor's hand,</l>
@@ -728,7 +729,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>He crowns thy valour with the choiceſt gift</l>
                      <l>A lover ever wiſh'd, or hero claim'd.</l>
                      <l>
-                        <pb facs="tcp:023035_0024_0FBAE12C06E4C158"/>Yet while my heart anticipates thy bliſs,</l>
+                        <pb facs="unknown:023035_0024_0FBAE12C06E4C158"/>Yet while my heart anticipates thy bliſs,</l>
                      <l>Thou muſt remember that thou liv'ſt for Rome:</l>
                      <l>Let not ambition, avarice, or love,</l>
                      <l>Contaminate thy patriotick worth:</l>
@@ -745,7 +746,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </div>
             </div>
             <div n="2" type="act">
-               <pb n="26" facs="tcp:023035_0025_0FBAE1301DD3D958"/>
+               <pb n="26" facs="unknown:023035_0025_0FBAE1301DD3D958"/>
                <head>ACT II.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -785,7 +786,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Impatient for the promiſe made Gaudentius,</l>
                      <l>Sighs for a union with the fair Eudocia.</l>
                      <l>
-                        <pb n="27" facs="tcp:023035_0026_0FBAE131F217A778"/>A ſon ſo near—a ſceptre in his eye,</l>
+                        <pb n="27" facs="unknown:023035_0026_0FBAE131F217A778"/>A ſon ſo near—a ſceptre in his eye,</l>
                      <l>May empire give to his aſpiring father.</l>
                   </sp>
                   <sp>
@@ -830,7 +831,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <stage>
                         <hi>Exit</hi> HERACLIUS.</stage>
                      <l>
-                        <pb n="28" facs="tcp:023035_0027_0FBAE13326C37A28"/>Down coward conſcience, nor diſturb a prince.</l>
+                        <pb n="28" facs="unknown:023035_0027_0FBAE13326C37A28"/>Down coward conſcience, nor diſturb a prince.</l>
                      <l>My recent crime haunts all my ſleepleſs nights;</l>
                      <l>Yet, ſhall I fill the meaſure of my guilt</l>
                      <l>And turn aſſaſſin?—Am I ſo loſt, as thus</l>
@@ -873,7 +874,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <speaker>VALENTINIAN.</speaker>
                      <l>What idle terror has aſſail'd thy brain;</l>
                      <l>
-                        <pb n="29" facs="tcp:023035_0028_0FBAE134A3DD2ED0"/>Or what new rupture threatens empire next?</l>
+                        <pb n="29" facs="unknown:023035_0028_0FBAE134A3DD2ED0"/>Or what new rupture threatens empire next?</l>
                   </sp>
                   <sp>
                      <speaker>EDOXIA.</speaker>
@@ -920,7 +921,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>To guard thy peace from each domeſtick foe.</l>
                   </sp>
                   <sp>
-                     <pb n="30" facs="tcp:023035_0029_0FBAE136A9FEF230"/>
+                     <pb n="30" facs="unknown:023035_0029_0FBAE136A9FEF230"/>
                      <speaker>VALENTINIAN.</speaker>
                      <l>Thou beſt of women! how ſhall I atone</l>
                      <l>For half the wrongs my faithleſs heart has done</l>
@@ -966,7 +967,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <stage>
                         <hi>Exit</hi> HERACLIUS.</stage>
                      <l>
-                        <pb n="31" facs="tcp:023035_0030_0FBAE137B08BB430"/>My arm be ſtrong—away with conſcious qualms—</l>
+                        <pb n="31" facs="unknown:023035_0030_0FBAE137B08BB430"/>My arm be ſtrong—away with conſcious qualms—</l>
                      <l>His is a life worthy of Caeſar's ſword:</l>
                      <l>'Tis true I but ſuſpect his cover'd treaſon;</l>
                      <l>Yet, Aetius muſt die—as ſhall Gaudentius.</l>
@@ -1008,7 +1009,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>And in his ſtead Beotius was ſlain.</l>
                   </sp>
                   <sp>
-                     <pb n="32" facs="tcp:023035_0031_0FBAE13924948468"/>
+                     <pb n="32" facs="unknown:023035_0031_0FBAE13924948468"/>
                      <speaker>PLACIDIA.</speaker>
                      <l>Where is the virtuous youth?—and where his friends?</l>
                   </sp>
@@ -1052,7 +1053,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Theſe veins I'd ope, and warm libations pour</l>
                      <l>Down at thy feet, to make his daughter</l>
                      <l>
-                        <pb n="33" facs="tcp:023035_0032_0FBAE13AABF89B68"/>Worthy of thy love—love did I ſay?—no—</l>
+                        <pb n="33" facs="unknown:023035_0032_0FBAE13AABF89B68"/>Worthy of thy love—love did I ſay?—no—</l>
                      <l>He muſt forever hate—deſpiſe—deteſt—</l>
                      <l>And curſe the name of Caeſar's blaſted race,</l>
                      <l>And fly the ſight of his too wretched daughter.</l>
@@ -1090,7 +1091,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>But yet a certain heavineſs hangs o'er me,</l>
                      <l>As though a tempeſt burſt from midnight clouds.</l>
                      <l>
-                        <pb n="34" facs="tcp:023035_0033_0FBAE13E790C1C58"/>Were I afraid of either gods or men,</l>
+                        <pb n="34" facs="unknown:023035_0033_0FBAE13E790C1C58"/>Were I afraid of either gods or men,</l>
                      <l>I'd ſwear this day is like the ide<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> of March,</l>
@@ -1134,7 +1135,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Though he's in friendſhip, gen'rous and ſincere,</l>
                      <l>Yet injur'd once, implacably he hates:</l>
                      <l>
-                        <pb n="35" facs="tcp:023035_0034_0FBAE141698FFFD8"/>'Twou'd beggar language to deſcribe his pride,</l>
+                        <pb n="35" facs="unknown:023035_0034_0FBAE141698FFFD8"/>'Twou'd beggar language to deſcribe his pride,</l>
                      <l>His ſtrength of paſſion when arous'd to rage;</l>
                      <l>Inexorable vengeance tears his ſoul:</l>
                      <l>Conſtant and noble, as a god he loves.</l>
@@ -1176,7 +1177,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <speaker>VALENTINIAN.</speaker>
                      <l>Yet anguiſh tears, and love inflames my breaſt;</l>
                      <l>
-                        <pb n="36" facs="tcp:023035_0035_0FBAE14318731FF0"/>Oh! would oblivion wrap a ſable veil</l>
+                        <pb n="36" facs="unknown:023035_0035_0FBAE14318731FF0"/>Oh! would oblivion wrap a ſable veil</l>
                      <l>O'er my remorſe, and o'er Ardelia's grief,</l>
                      <l>O'er her bright form, and her untimely death,</l>
                      <l>I might defy the vengeance of her lord:</l>
@@ -1222,7 +1223,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Smile that thy foes on the ſame moment fall.</l>
                   </sp>
                   <sp>
-                     <pb n="37" facs="tcp:023035_0036_0FBAE1446FD83310"/>
+                     <pb n="37" facs="unknown:023035_0036_0FBAE1446FD83310"/>
                      <speaker>VALENTINIAN.</speaker>
                      <l>Haſte to the field of Mars—there I'll forget,</l>
                      <l>A pan<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1259,7 +1260,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>But glory, fame, ambition and revenge</l>
                   <l>Bid me eraſe this paſſion from my heart,</l>
                   <l>
-                     <pb n="38" facs="tcp:023035_0037_0FBAE146017BEDB8"/>And boldly ſtem the madneſs of the times,</l>
+                     <pb n="38" facs="unknown:023035_0037_0FBAE146017BEDB8"/>And boldly ſtem the madneſs of the times,</l>
                   <l>Recover Rome and reinſtate her power,</l>
                   <l>And bring her back to glory, wealth and fame.</l>
                   <l>But hah!—Eudocia, penſive and alone;</l>
@@ -1285,7 +1286,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </div>
             </div>
             <div n="3" type="act">
-               <pb n="39" facs="tcp:023035_0038_0FBAE147755653D0"/>
+               <pb n="39" facs="unknown:023035_0038_0FBAE147755653D0"/>
                <head>ACT III.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -1321,7 +1322,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>What cauſe is there for Maximus's grief?</l>
                      <l>Why is thy boſom tortur'd with deſpair?</l>
                      <l>
-                        <pb n="40" facs="tcp:023035_0039_0FBAE148E8914CB8"/>Unfold the tale, command Trauliſta's ſword;</l>
+                        <pb n="40" facs="unknown:023035_0039_0FBAE148E8914CB8"/>Unfold the tale, command Trauliſta's ſword;</l>
                      <l>Wake up full vengeance, or forbear to grieve.</l>
                   </sp>
                   <sp>
@@ -1371,7 +1372,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                            <desc>•</desc>
                         </gap>;</l>
                      <l>
-                        <pb n="41" facs="tcp:023035_0040_0FBAE14A763A9568"/>With anxious dread and deep ſuſpenſe I flew</l>
+                        <pb n="41" facs="unknown:023035_0040_0FBAE14A763A9568"/>With anxious dread and deep ſuſpenſe I flew</l>
                      <l>To her abode of miſery and grief.</l>
                      <l>In ſables dreſs'd—a taper juſt burnt down—</l>
                      <l>That darkly glimmer'd gloom from ſide to ſide—</l>
@@ -1412,7 +1413,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>All the big paſſions of a noble ſoul</l>
                      <l>Thrill'd through her heart, and ſtiffen'd all her frame;</l>
                      <l>
-                        <pb n="42" facs="tcp:023035_0041_0FBAE14BE13079A8"/>The ſhining angel left this blaſted world,</l>
+                        <pb n="42" facs="unknown:023035_0041_0FBAE14BE13079A8"/>The ſhining angel left this blaſted world,</l>
                      <l>And now methinks, ineffably ſerene,</l>
                      <l>On yon bright azure golden ſkirted cloud,</l>
                      <l>Ardelia gently chides this tardy hand</l>
@@ -1464,7 +1465,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <stage>Exeunt.</stage>
                </div>
                <div n="2" type="scene">
-                  <pb facs="tcp:023035_0042_0FBAE14DA8334280"/>
+                  <pb facs="unknown:023035_0042_0FBAE14DA8334280"/>
                   <head>SCENE II.</head>
                   <stage>MAXIMUS <hi>and</hi> GAUDENTIUS.</stage>
                   <sp>
@@ -1501,7 +1502,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>For innocence betray'd, and virtue ſold.</l>
                   </sp>
                   <sp>
-                     <pb n="44" facs="tcp:023035_0043_0FBAE14F612AA190"/>
+                     <pb n="44" facs="unknown:023035_0043_0FBAE14F612AA190"/>
                      <speaker>GAUDENTIUS.</speaker>
                      <l>Diſmay'd by blood, the ſenators deteſt</l>
                      <l>A ſovereign, cruel, impotent and baſe,</l>
@@ -1553,7 +1554,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Fortune, who ſports with diadems and crowns</l>
                      <l>This day may hail him emperor of the weſt.</l>
                      <stage>
-                        <pb n="45" facs="tcp:023035_0044_0FBAE15307E2DC20"/>GAUDENTIUS <hi>pauſes a moment, retires thoughtfully a few ſteps, ſmothers an exclamation, and only articulates</hi>
+                        <pb n="45" facs="unknown:023035_0044_0FBAE15307E2DC20"/>GAUDENTIUS <hi>pauſes a moment, retires thoughtfully a few ſteps, ſmothers an exclamation, and only articulates</hi>
                      </stage>
                      <l>—Oh! my Eudocia.</l>
                   </sp>
@@ -1596,7 +1597,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Petronius, thou haſt fix'd my wav'ring will;</l>
                      <l>Let me lead on—my ſword alone,</l>
                      <l>
-                        <pb n="46" facs="tcp:023035_0045_0FBAE156B22E5FE0"/>Without another's aid, ſhall find its way</l>
+                        <pb n="46" facs="unknown:023035_0045_0FBAE156B22E5FE0"/>Without another's aid, ſhall find its way</l>
                      <l>To Valentinian's heart.</l>
                   </sp>
                   <sp>
@@ -1638,7 +1639,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>No eagle darting down the ſlaughter'd field</l>
                      <l>Of human carnage ſtrew'd with mangled limbs,</l>
                      <l>
-                        <pb n="47" facs="tcp:023035_0046_0FBAE157E8513290"/>More ſwiftly bends its talons to the prey,</l>
+                        <pb n="47" facs="unknown:023035_0046_0FBAE157E8513290"/>More ſwiftly bends its talons to the prey,</l>
                      <l>Than ſhall my ſword deal thunderbolts around,</l>
                      <l>Whene'er Petronius wiſhes for its aid.</l>
                   </sp>
@@ -1684,7 +1685,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>He feels the ſofteſt paſſion for Eudocia.</l>
                   </sp>
                   <sp>
-                     <pb n="48" facs="tcp:023035_0047_0FBAE159C7702CC0"/>
+                     <pb n="48" facs="unknown:023035_0047_0FBAE159C7702CC0"/>
                      <speaker>TRAULISTA.</speaker>
                      <l>He feels no pang but for Eudocia's ſake;</l>
                      <l>Yet jealouſy has wak'd a war within;</l>
@@ -1724,7 +1725,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <stage>Exeunt.</stage>
                </div>
                <div n="4" type="scene">
-                  <pb n="49" facs="tcp:023035_0048_0FBAE15BA826CF00"/>
+                  <pb n="49" facs="unknown:023035_0048_0FBAE15BA826CF00"/>
                   <head>SCENE IV.</head>
                   <stage>EUDOCIA <hi>and</hi> PLACIDIA.</stage>
                   <sp>
@@ -1769,7 +1770,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Petronius Maximus.</l>
                   </sp>
                   <sp>
-                     <pb n="50" facs="tcp:023035_0049_0FBAE15D2E2504D0"/>
+                     <pb n="50" facs="unknown:023035_0049_0FBAE15D2E2504D0"/>
                      <speaker>EUDOCIA.</speaker>
                      <l>Undone—undone forever!</l>
                      <l>Where is our father?—Oh! where the good Edoxia?</l>
@@ -1816,7 +1817,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Forgive me, princeſs.</l>
                   </sp>
                   <sp>
-                     <pb n="51" facs="tcp:023035_0050_0FBAE15F753AF400"/>
+                     <pb n="51" facs="unknown:023035_0050_0FBAE15F753AF400"/>
                      <speaker>EUDOCIA.</speaker>
                      <l>Oh! Gaudentius—</l>
                      <l>Could my poor life atone—my clay cold corſe</l>
@@ -1867,7 +1868,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Not all the wrongs I ſuffer'd from thy ſire,</l>
                      <l>Nor yet the vengeance that my own demand,</l>
                      <l>
-                        <pb n="52" facs="tcp:023035_0051_0FBAE164B55561A0"/>Could urge my arm to aim an impious blow</l>
+                        <pb n="52" facs="unknown:023035_0051_0FBAE164B55561A0"/>Could urge my arm to aim an impious blow</l>
                      <l>That might a moment interrupt thy peace!</l>
                      <l>But Maximus—</l>
                   </sp>
@@ -1913,7 +1914,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      </gap>er,</l>
                   <l>And brighter aſpects tinge the weſtern ſkies?</l>
                   <l>
-                     <pb n="53" facs="tcp:023035_0052_0FBAE166258243B0"/>This day is big with omens of deſpair,</l>
+                     <pb n="53" facs="unknown:023035_0052_0FBAE166258243B0"/>This day is big with omens of deſpair,</l>
                   <l>And ſome wild tumult rages loud abroad;</l>
                   <l>Each face is pale, and every eye's aſkance,</l>
                   <l>As wrapt in dark myſterious intrigue:</l>
@@ -1956,7 +1957,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Yet know, Edoxia dares to hold a throne,</l>
                      <l>And has a ſoul to ſcourge a traitor's guilt.</l>
                      <l>
-                        <pb n="54" facs="tcp:023035_0053_0FBAE167ADC1F188"/>Name thou the firſt who ſtruck the impious blow<g ref="char:punc">▪</g>
+                        <pb n="54" facs="unknown:023035_0053_0FBAE167ADC1F188"/>Name thou the firſt who ſtruck the impious blow<g ref="char:punc">▪</g>
                      </l>
                      <l>That ſhakes the glory of the imperial crown,</l>
                      <l>He'll feel what vengeance 'tis my arm inflicts.</l>
@@ -2001,7 +2002,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>This was the day, by ſolemn promiſe made</l>
                      <l>His noble ſire—Gaudentius might have claim'd</l>
                      <l>
-                        <pb n="55" facs="tcp:023035_0054_0FBAE1692ACF51F0"/>His lovely bride, and ſeal'd his nuptials</l>
+                        <pb n="55" facs="unknown:023035_0054_0FBAE1692ACF51F0"/>His lovely bride, and ſeal'd his nuptials</l>
                      <l>With the fair Eudocia.</l>
                   </sp>
                   <sp>
@@ -2047,7 +2048,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </div>
             </div>
             <div n="4" type="act">
-               <pb n="56" facs="tcp:023035_0055_0FBAE16AE2BF6E78"/>
+               <pb n="56" facs="unknown:023035_0055_0FBAE16AE2BF6E78"/>
                <head>ACT IV.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -2083,7 +2084,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Of night and death—in anguiſh let him ſee</l>
                   <l>His rival riot in Edoxia's arms.</l>
                   <stage>
-                     <pb n="57" facs="tcp:023035_0056_0FBAE16C2C5CC7F0"/>
+                     <pb n="57" facs="unknown:023035_0056_0FBAE16C2C5CC7F0"/>
                      <hi>Enter</hi> LEO.</stage>
                   <l>My friend—my faithful Leo.</l>
                   <sp>
@@ -2125,7 +2126,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Torn from one emperor, and another made,</l>
                      <l>Without a murmur from the ſervile throng:</l>
                      <l>
-                        <pb n="58" facs="tcp:023035_0057_0FBAE16DA9BE33F8"/>Borne through the crowd—till to the palace brought,</l>
+                        <pb n="58" facs="unknown:023035_0057_0FBAE16DA9BE33F8"/>Borne through the crowd—till to the palace brought,</l>
                      <l>I've not yet heard Heraclius's fate.</l>
                   </sp>
                   <sp>
@@ -2171,7 +2172,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      </l>
                      <l>'Tis done—the envy'd maſter of the world conceals</l>
                      <l>
-                        <pb n="59" facs="tcp:023035_0058_0FBAE16F23D19610"/>A thouſand pangs beneath a purple robe;</l>
+                        <pb n="59" facs="unknown:023035_0058_0FBAE16F23D19610"/>A thouſand pangs beneath a purple robe;</l>
                      <l>Yet furies lurk, and vipers gnaw within,</l>
                      <l>And give the lie to ſplendid pomp without.</l>
                   </sp>
@@ -2210,7 +2211,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>This predilection's left to man alone,</l>
                   <l>To drink and riot on his brother's blood.</l>
                   <sp>
-                     <pb n="60" facs="tcp:023035_0059_0FBAE170A381B4D8"/>
+                     <pb n="60" facs="unknown:023035_0059_0FBAE170A381B4D8"/>
                      <speaker>LEO.</speaker>
                      <l>Fate has ordain'd—'tis thou muſt give us peace;</l>
                      <l>Thy lenient hand alone.</l>
@@ -2270,7 +2271,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Save thy noble houſe.</l>
                   </sp>
                   <sp>
-                     <pb n="61" facs="tcp:023035_0060_0FBAE1727B7A8060"/>
+                     <pb n="61" facs="unknown:023035_0060_0FBAE1727B7A8060"/>
                      <speaker>EDOXIA.</speaker>
                      <l>I have no country.</l>
                      <l>What's life, or empire, or the world to me?</l>
@@ -2324,7 +2325,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>To wield the imperial ſceptre.</l>
                   </sp>
                   <sp>
-                     <pb n="62" facs="tcp:023035_0061_0FBAE173EDDB0380"/>
+                     <pb n="62" facs="unknown:023035_0061_0FBAE173EDDB0380"/>
                      <speaker>LEO.</speaker>
                      <l>And therefore needs thy aid,</l>
                      <l>Both to ſecure and dignify the throne.</l>
@@ -2365,7 +2366,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                         <l>To his impious bed, the wife of his</l>
                         <l>Aſſaſſinated lord—none dare oppoſe?</l>
                         <l>
-                           <pb n="63" facs="tcp:023035_0062_0FBAE17918A97DE8"/>Has Rome for this ſo often fought and conquer'd?</l>
+                           <pb n="63" facs="unknown:023035_0062_0FBAE17918A97DE8"/>Has Rome for this ſo often fought and conquer'd?</l>
                         <l>Has the beſt blood the Roman name can boaſt,</l>
                         <l>Redden'd the Tyber with its purple ſtreams,</l>
                         <l>To purchaſe freedom by the ſwift perdition</l>
@@ -2408,7 +2409,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>And rav'd, and ſob'd, and imprecated death:</l>
                      <l>At laſt, collected in majeſtick pride,</l>
                      <l>
-                        <pb n="64" facs="tcp:023035_0063_0FBAE17AC0AC2650"/>She drew a poignard from beneath her robe,</l>
+                        <pb n="64" facs="unknown:023035_0063_0FBAE17AC0AC2650"/>She drew a poignard from beneath her robe,</l>
                      <l>And ſolemn ſwore, in moſt indignant ſtrains,</l>
                      <l>If you preſum'd to ſpeak to her of love,</l>
                      <l>Its point transfix'd ſhould ſend her to the grave,</l>
@@ -2452,7 +2453,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Of the heavenly flame could e'er exiſt</l>
                      <l>In thy corrupted brain—blown up by luſt—</l>
                      <l>
-                        <pb n="65" facs="tcp:023035_0064_0FBAE17CA4A79F08"/>Revenge—ambition—death—</l>
+                        <pb n="65" facs="unknown:023035_0064_0FBAE17CA4A79F08"/>Revenge—ambition—death—</l>
                      <l>Thy dagger reeking with thy ſovereign's blood,</l>
                      <l>Thou ſtill would'ſt heighten thy deteſted crime</l>
                      <l>And make his wife a partner in thy guilt.</l>
@@ -2494,7 +2495,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>From thine imperious brow.</l>
                   </sp>
                   <sp>
-                     <pb n="66" facs="tcp:023035_0065_0FBAE17E2507C450"/>
+                     <pb n="66" facs="unknown:023035_0065_0FBAE17E2507C450"/>
                      <speaker>MAXIMUS.</speaker>
                      <l>Does not the empreſs know who murder'd Aetius?—</l>
                      <stage>
@@ -2541,7 +2542,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>To ſave the commonwealth?</l>
                      <l>Ariſe! ye ancient, venerable ſhades,</l>
                      <l>
-                        <pb n="67" facs="tcp:023035_0066_0FBAE17FA507EB60"/>Who bravely fought for liberty and Rome:</l>
+                        <pb n="67" facs="unknown:023035_0066_0FBAE17FA507EB60"/>Who bravely fought for liberty and Rome:</l>
                      <l>Aſſiſt my powers—my ſingle arm ſhall dare</l>
                      <l>Some dreadful deed of horrid deſperation.</l>
                      <l>I ſwear by him who thunders in the ſkies,</l>
@@ -2580,7 +2581,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>A prince that lives but in Eudocia's ſmile.</l>
                   </sp>
                   <sp>
-                     <pb n="68" facs="tcp:023035_0067_0FBAE1817653BED0"/>
+                     <pb n="68" facs="unknown:023035_0067_0FBAE1817653BED0"/>
                      <speaker>EUDOCIA.</speaker>
                      <l>Talk not of peace to the imperial <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -2629,7 +2630,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Is a ſecret foe—and that his hoſtile hand,</l>
                      <l>Oft ſteep'd in blood—fierce as the vulture's fang,</l>
                      <l>
-                        <pb n="69" facs="tcp:023035_0068_0FBAE183C3543028"/>Was not inactive on that fatal day,</l>
+                        <pb n="69" facs="unknown:023035_0068_0FBAE183C3543028"/>Was not inactive on that fatal day,</l>
                      <l>When the remorſeleſs ſword mow'd down as graſs</l>
                      <l>The faithful friends to Valentinian's houſe.</l>
                      <l>But Heaven forbid, that e'er the brave Gaudentius,</l>
@@ -2670,7 +2671,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>What is it poiſons thy heroick ſoul,</l>
                      <l>And damps the vigour of thy martial arm?</l>
                      <l>
-                        <pb n="70" facs="tcp:023035_0069_0FBAE18711B98D48"/>Brace up thy nerves, and fence about thy breaſt,</l>
+                        <pb n="70" facs="unknown:023035_0069_0FBAE18711B98D48"/>Brace up thy nerves, and fence about thy breaſt,</l>
                      <l>And ſcorn the boon of pity from a girl—</l>
                      <l>A haughty—ſtubborn—ſolemn Roman maid.</l>
                   </sp>
@@ -2711,7 +2712,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>And frozen ſeas—to Scythia's icy banks,</l>
                      <l>Where rugged winds pour from the brindled north</l>
                      <l>
-                        <pb n="71" facs="tcp:023035_0070_0FBAE188EAFFE388"/>Adown the mountain's brow—a blaſt may cool</l>
+                        <pb n="71" facs="unknown:023035_0070_0FBAE188EAFFE388"/>Adown the mountain's brow—a blaſt may cool</l>
                      <l>The tranſports of thy love.</l>
                   </sp>
                   <sp>
@@ -2758,7 +2759,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>That I did not ſtrike—that her fair image,</l>
                      <l>Hovering round his head, held back my hand—</l>
                      <l>
-                        <pb n="72" facs="tcp:023035_0071_0FBAE18A24E37F28"/>Repell'd the pointed ſword—for aught I did,</l>
+                        <pb n="72" facs="unknown:023035_0071_0FBAE18A24E37F28"/>Repell'd the pointed ſword—for aught I did,</l>
                      <l>Her father might have liv'd.</l>
                   </sp>
                   <sp>
@@ -2813,7 +2814,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <stage>
                      <hi>Exit</hi> TRAULISTA.</stage>
                   <stage>
-                     <pb n="73" facs="tcp:023035_0072_0FBAE18BAF48DFA8"/>
+                     <pb n="73" facs="unknown:023035_0072_0FBAE18BAF48DFA8"/>
                      <hi>Enter</hi> EDOXIA.</stage>
                   <sp>
                      <speaker>EDOXIA.</speaker>
@@ -2856,7 +2857,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Canſt thou a moment balance in the ſcale</l>
                      <l>The tranquil ſcenes of harmony and peace,</l>
                      <l>
-                        <pb n="74" facs="tcp:023035_0073_0FBAE18D35C63858"/>With all the luſtre that adorns a crown?</l>
+                        <pb n="74" facs="unknown:023035_0073_0FBAE18D35C63858"/>With all the luſtre that adorns a crown?</l>
                      <l>Eudocia gives an empire with her hand.</l>
                   </sp>
                   <sp>
@@ -2904,7 +2905,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>And ſell my country to the Vandal king?</l>
                   </sp>
                   <sp>
-                     <pb n="75" facs="tcp:023035_0074_0FBAE18EA64E32B8"/>
+                     <pb n="75" facs="unknown:023035_0074_0FBAE18EA64E32B8"/>
                      <speaker>EDOXIA.</speaker>
                      <l>Wilt thou betray the mother of Eudocia,</l>
                      <l>And blaſt my hopes of moſt ſevere revenge?</l>
@@ -2952,7 +2953,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   </sp>
                   <stage>Trumpets without.</stage>
                   <sp>
-                     <pb n="76" facs="tcp:023035_0075_0FBAE190F12D89E0"/>
+                     <pb n="76" facs="unknown:023035_0075_0FBAE190F12D89E0"/>
                      <speaker>GAUDENTIUS.</speaker>
                      <l>Hark! the ſhrill trump!—Genſeric's herald</l>
                      <l>Cannot yet be nigh.—</l>
@@ -2979,7 +2980,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </div>
             </div>
             <div n="5" type="act">
-               <pb n="77" facs="tcp:023035_0076_0FBAE19264538F80"/>
+               <pb n="77" facs="unknown:023035_0076_0FBAE19264538F80"/>
                <head>ACT V.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -3020,7 +3021,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <stage>Exeunt.</stage>
                </div>
                <div n="2" type="scene">
-                  <pb n="78" facs="tcp:023035_0077_0FBAE193F42194C0"/>
+                  <pb n="78" facs="unknown:023035_0077_0FBAE193F42194C0"/>
                   <head>SCENE II.</head>
                   <stage>
                      <hi>Opens and diſcovers the Citizens in great Confuſion</hi>—LEO <hi>at the Head of a Proceſſion of Prieſts, Senators and Nobles, meet</hi> GENSERIC <hi>in ſuppliant poſtures, without the Palace.</hi>
@@ -3061,7 +3062,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Hymenial ſongs muſt cheer theſe drooping maids—</l>
                      <l>They each ſhall chooſe a Goth or Vandal lord,</l>
                      <l>
-                        <pb n="79" facs="tcp:023035_0078_0FBAE1956D34BD18"/>And raſe the lineage of the Roman name</l>
+                        <pb n="79" facs="unknown:023035_0078_0FBAE1956D34BD18"/>And raſe the lineage of the Roman name</l>
                      <l>In the warm grots of Aſdrubal and Hanno,</l>
                      <l>For which their anceſtors in Carthage bled,</l>
                      <l>And armies periſh'd in the Lybian ſands.</l>
@@ -3102,7 +3103,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>With hoſts of Vandals crowding in the rear.</l>
                   </sp>
                   <sp>
-                     <pb n="80" facs="tcp:023035_0079_0FBAE197465717B8"/>
+                     <pb n="80" facs="unknown:023035_0079_0FBAE197465717B8"/>
                      <speaker>EDOXIA.</speaker>
                      <l>No more—death to my eyes—the tyrant comes—</l>
                      <l>The chains prepar'd—I hear the ſhackles clank.</l>
@@ -3148,7 +3149,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Or the thrice heated ſummer ſolſtice burns.</l>
                   </sp>
                   <sp>
-                     <pb n="81" facs="tcp:023035_0080_0FBAE199193717E8"/>
+                     <pb n="81" facs="unknown:023035_0080_0FBAE199193717E8"/>
                      <speaker>GENSERIC.</speaker>
                      <l>Then, to conſole and mitigate thy rage,</l>
                      <l>I'll haſte to Tunis with the illuſtrious throng,</l>
@@ -3194,7 +3195,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Is acted o'er by this infernal race.</l>
                   </sp>
                   <sp>
-                     <pb n="82" facs="tcp:023035_0081_0FBAE199E197D698"/>
+                     <pb n="82" facs="unknown:023035_0081_0FBAE199E197D698"/>
                      <speaker>GENSERIC.</speaker>
                      <l>Slaves, haſten on, and ſeize your royal charge,</l>
                      <l>And guard her ſafe to Carthagena's coaſt.</l>
@@ -3237,7 +3238,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <stage>EDOXIA <hi>is led off in golden chains.</hi>
                      </stage>
                      <stage>
-                        <pb n="83" facs="tcp:023035_0082_0FBAE19E2C4125B8"/>GENSERIC, <hi>from the Palace Gates, gives Orders to the Van<g ref="char:EOLhyphen"/>dal Troops.</hi>
+                        <pb n="83" facs="unknown:023035_0082_0FBAE19E2C4125B8"/>GENSERIC, <hi>from the Palace Gates, gives Orders to the Van<g ref="char:EOLhyphen"/>dal Troops.</hi>
                      </stage>
                      <l>Down with the Roman eagles, ſtatues, temples,</l>
                      <l>Monuments of fame—their trophies tear:—</l>
@@ -3267,7 +3268,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <stage>Exeunt.</stage>
                </div>
                <div n="4" type="scene">
-                  <pb n="84" facs="tcp:023035_0083_0FBAE1A0A6E64080"/>
+                  <pb n="84" facs="unknown:023035_0083_0FBAE1A0A6E64080"/>
                   <head>SCENE IV.</head>
                   <stage>HUNNERIC <hi>and</hi> TRAULISTA.</stage>
                   <sp>
@@ -3307,7 +3308,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>The wanton beauties of our amorous clime.</l>
                      <l>In her majeſtick preſence, I'm as tame,</l>
                      <l>
-                        <pb n="85" facs="tcp:023035_0084_0FBAE1A224377430"/>As the young lambkin in the ſhepherd's cot;</l>
+                        <pb n="85" facs="unknown:023035_0084_0FBAE1A224377430"/>As the young lambkin in the ſhepherd's cot;</l>
                      <l>I ſcarcely move me, leſt I ſhould offend;</l>
                      <l>It may be love—I fear it is—</l>
                      <l>Yet ſpurn it from my thought—yes, I adore,</l>
@@ -3349,7 +3350,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Command thy terms—though they're to govern Rome,</l>
                      <l>To wear a crown—to reign in Gaul or Spain;</l>
                      <l>
-                        <pb n="86" facs="tcp:023035_0085_0FBAE1A3AF2847E8"/>Both by the croſs, and by the ancient gods,</l>
+                        <pb n="86" facs="unknown:023035_0085_0FBAE1A3AF2847E8"/>Both by the croſs, and by the ancient gods,</l>
                      <l>Here is my ſignet—claim thine own reward.</l>
                   </sp>
                   <sp>
@@ -3392,7 +3393,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>To back the rage that rankled in her breaſt,</l>
                      <l>And rid her of Gaudentius, who'd refus'd</l>
                      <l>
-                        <pb n="87" facs="tcp:023035_0086_0FBAE1A54716DD78"/>To be her friend and confident to thee.</l>
+                        <pb n="87" facs="unknown:023035_0086_0FBAE1A54716DD78"/>To be her friend and confident to thee.</l>
                      <l>He, raging mad with patriotick pride,</l>
                      <l>Reſign'd his love at freedom's ſacred foot,</l>
                      <l>Diſguſted—urg'd againſt her fix'd deſign,</l>
@@ -3431,7 +3432,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <stage>Exeunt.</stage>
                </div>
                <div n="5" type="scene">
-                  <pb n="88" facs="tcp:023035_0087_0FBAE1A6A7585B70"/>
+                  <pb n="88" facs="unknown:023035_0087_0FBAE1A6A7585B70"/>
                   <head>SCENE V.</head>
                   <stage>
                      <hi>A Grotto in the Garden of the Palace</hi>—EUDOCIA <hi>ſolus</hi>— GAUDENTIUS <hi>approaching.</hi>
@@ -3476,7 +3477,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>This laſt ſad night, ere I'm completely curs'd.</l>
                   </sp>
                   <sp>
-                     <pb n="89" facs="tcp:023035_0088_0FBAE1A830896270"/>
+                     <pb n="89" facs="unknown:023035_0088_0FBAE1A830896270"/>
                      <speaker>GAUDENTIUS.</speaker>
                      <l>May all the powers who guard the good and juſt</l>
                      <l>Protect my princeſs!—</l>
@@ -3526,7 +3527,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Oh! live Gaudentius—live for Rome's defence;</l>
                      <l>Nor rob thy country of ſo brave an arm.</l>
                      <l>
-                        <pb n="90" facs="tcp:023035_0089_0FBAE1A9A1A046C0"/>Not crowns, or ſceptres, or the world beſides,</l>
+                        <pb n="90" facs="unknown:023035_0089_0FBAE1A9A1A046C0"/>Not crowns, or ſceptres, or the world beſides,</l>
                      <l>Has aught to balance with my love for thee;</l>
                      <l>Yet urge no more—fly hence and ſave thyſelf—</l>
                      <l>One parting ſigh—one ſolemn, laſt adieu—</l>
@@ -3576,7 +3577,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Alas! my heart—my weak, my wavering heart!</l>
                   </sp>
                   <sp>
-                     <pb n="91" facs="tcp:023035_0090_0FBAE1AC234FAC40"/>
+                     <pb n="91" facs="unknown:023035_0090_0FBAE1AC234FAC40"/>
                      <speaker>GAUDENTIUS.</speaker>
                      <l>Come, let us move to yonder ſmall alcove;</l>
                      <l>The brave Trauliſta, whom Genſeric truſts,</l>
@@ -3628,7 +3629,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   </sp>
                   <stage>She ſtarts back.</stage>
                   <sp>
-                     <pb n="92" facs="tcp:023035_0091_0FBAE1AFC3D7B420"/>
+                     <pb n="92" facs="unknown:023035_0091_0FBAE1AFC3D7B420"/>
                      <speaker>GAUDENTIUS.</speaker>
                      <l>My generous friend anticipates the hour.</l>
                   </sp>
@@ -3682,7 +3683,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>For daring once to threat Trauliſta's life.</l>
                   </sp>
                   <sp>
-                     <pb n="93" facs="tcp:023035_0092_0FBAE1B1E4146788"/>
+                     <pb n="93" facs="unknown:023035_0092_0FBAE1B1E4146788"/>
                      <speaker>GAUDENTIUS.</speaker>
                      <l>High heaven has levell'd at thy treacherous heart</l>
                      <l>The fatal ſtroke that juſtice' hand demands.</l>
@@ -3730,7 +3731,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>No, my Eudocia, live—thou art my queen.</l>
                   </sp>
                   <sp>
-                     <pb n="94" facs="tcp:023035_0093_0FBAE1B363C97BD8"/>
+                     <pb n="94" facs="unknown:023035_0093_0FBAE1B363C97BD8"/>
                      <speaker>EUDOCIA.</speaker>
                      <l>If hell's dark empire had a charm for me,</l>
                      <l>Then I might wiſh to be the Vandal queen.</l>
@@ -3791,7 +3792,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
             </div>
          </div>
          <div type="epilogue">
-            <pb facs="tcp:023035_0094_0FBAE1B4E194A248"/>
+            <pb facs="unknown:023035_0094_0FBAE1B4E194A248"/>
             <head>EPILOGUE.</head>
             <l>POETS and heroes travelling from home,</l>
             <l>For perfect models, oft repair to Rome;</l>
@@ -3826,7 +3827,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
             <l>Nor huſkin merit meet the mid day ſky,</l>
             <l>A female bard ſtill aſks your candid eye.</l>
             <l>
-               <pb n="96" facs="tcp:023035_0095_0FBAE1B66ED85EE0"/>Sure the politeneſs of an infant nation</l>
+               <pb n="96" facs="unknown:023035_0095_0FBAE1B66ED85EE0"/>Sure the politeneſs of an infant nation</l>
             <l>Wont <hi>damn</hi> the play, and hiſs it out of faſhion;</l>
             <l>At the firſt reading on an winter's eve</l>
             <l>Pray cry <hi>encore</hi>—a ſecond may retrieve,</l>
@@ -3850,11 +3851,11 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
             <l>Who baſely have betray'd or ſold a friend.</l>
          </div>
          <div type="half_title">
-            <pb facs="tcp:023035_0096_0FBAE1B8687DE010"/>
+            <pb facs="unknown:023035_0096_0FBAE1B8687DE010"/>
             <p>THE LADIES of CASTILE. A TRAGEDY, IN FIVE ACTS.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:023035_0097_0FBAE1BA2BF2CB20"/>
+            <pb facs="unknown:023035_0097_0FBAE1BA2BF2CB20"/>
             <head>To a <hi>YOUNG GENTLEMAN</hi> in <hi>EUROPE,</hi> at whoſe Requeſt a regular <hi>DRAMATICK WORK</hi> was firſt attempted.</head>
             <opener>
                <salute>MY DEAR SIR,</salute>
@@ -3863,13 +3864,13 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
             <p>I AM ſenſible the writing an unexcep<g ref="char:EOLhyphen"/>tionable Tragedy, requires judgement, ge<g ref="char:EOLhyphen"/>nius, and taſte; and have felt ſuch a diffi<g ref="char:EOLhyphen"/>dence in the attempt, as nothing would have overcome but the repeated requeſt of a very dear friend.</p>
             <p>THOUGH the piece now put into your hand may not afford equal entertainment with the compoſitions of a Corneille, a Racine, or a Crebillon, yet I dare ſay, from your partiality, you will find pleaſure in your cloſet, though it ſhould not be <hi>en<g ref="char:EOLhyphen"/>cored</hi> on the ſtage.</p>
             <p>
-               <pb n="100" facs="tcp:023035_0098_0FBAE03EB5563490"/>YOU have never named me a ſubject, though you prohibited an American, and ſeemed to have no predilection in favour of Britiſh incident; therefore, notwithſtanding events in the weſtern world have outran imagination; notwithſtanding the magni<g ref="char:EOLhyphen"/>tude of proſpect a riſing empire diſplays, and the many tragical ſcenes exhibited on an iſland whence it derived its origin, I have recurred to an ancient ſtory in the annals of Spain, in her laſt ſtruggles for liberty, previous to the complete eſtabliſhment of deſpotiſm by the family of Ferdinand.</p>
+               <pb n="100" facs="unknown:023035_0098_0FBAE03EB5563490"/>YOU have never named me a ſubject, though you prohibited an American, and ſeemed to have no predilection in favour of Britiſh incident; therefore, notwithſtanding events in the weſtern world have outran imagination; notwithſtanding the magni<g ref="char:EOLhyphen"/>tude of proſpect a riſing empire diſplays, and the many tragical ſcenes exhibited on an iſland whence it derived its origin, I have recurred to an ancient ſtory in the annals of Spain, in her laſt ſtruggles for liberty, previous to the complete eſtabliſhment of deſpotiſm by the family of Ferdinand.</p>
             <p>THE hiſtory of Charles the fifth, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>y<g ref="char:EOLhyphen"/>ranny of his ſucceſſors, and the exertions of the Spaniſh Cortes, will ever be intereſting to an American ear, ſo long as they triumph in their independence, pride themſelves in the principles that inſtigated their patriots, and glory in the characters of their heroes, whoſe valour completed a revolution that will be the wonder of ages.</p>
             <p>WHAT a field for genius! What a diſ<g ref="char:EOLhyphen"/>play of capacity, both in ſcience, in buſi<g ref="char:EOLhyphen"/>neſs, and in politics, does this revolution ex<g ref="char:EOLhyphen"/>hibit! Certainly, enough to fire the ambi<g ref="char:EOLhyphen"/>tion, and light up every noble ſpark in the boſom of thoſe who are in the morning of life.</p>
             <p>
-               <pb n="101" facs="tcp:023035_0099_0FBAE0402A0DA3E8"/>THE nations have now reſhe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="101" facs="unknown:023035_0099_0FBAE0402A0DA3E8"/>THE nations have now reſhe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>thed the ſword; the European world is huſhed in peace; America ſtands alone:—May ſhe long ſtand, independent of every foreign power; ſuperiour to the ſpirit of intrigue, or the corrupt principles of uſurpation that may ſpring from the ſucceſsful exertions of her own ſons:—May their conduct never contradict the profeſſions of the patriots who have aſſerted the rights of human na<g ref="char:EOLhyphen"/>ture; nor cauſe a bluſh to pervade the cheek of the children of the martyrs who have fallen in defence of the liberties of their country.</p>
             <p>PERHAPS the ſubject I have choſen for the machinery of a tragedy, may be more proper for an epic, than a dramatic poem; yet I hope it will be acceptable in its preſ<g ref="char:EOLhyphen"/>ent garb, and that the candor of the public will be exerciſed, not ſo much for the ſake of the ſex, as the deſign of the writer, who wiſhes only to cultivate the ſentiments of public and private virtue in whatſoever falls from her pen.</p>
@@ -3880,7 +3881,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
             </closer>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:023035_0100_0FBAE0420410EC90"/>
+            <pb facs="unknown:023035_0100_0FBAE0420410EC90"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <head>MEN.</head>
@@ -3908,7 +3909,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
             </list>
          </div>
          <div type="play">
-            <pb facs="tcp:023035_0101_0FBAE043270B3D40"/>
+            <pb facs="unknown:023035_0101_0FBAE043270B3D40"/>
             <head>THE LADIES of CASTILE.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -3934,7 +3935,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Methinks ſome languor hangs about thy ſteps,</l>
                      <l>Too like deſpair, though not alli'd to fear;</l>
                      <l>
-                        <pb n="104" facs="tcp:023035_0102_0FBAE045A8D504A8"/>When virtue arms, and liberty's the prize,</l>
+                        <pb n="104" facs="unknown:023035_0102_0FBAE045A8D504A8"/>When virtue arms, and liberty's the prize,</l>
                      <l>No cloud ſhould ſet on brave Don Francis' brow.</l>
                      <l>The love of glory, victory and fame,</l>
                      <l>A noble ſenſe of dignity and worth,</l>
@@ -3983,7 +3984,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Not like the lover, but the hero talk—</l>
                      <l>The ſword muſt reſcue, or the nation ſink,</l>
                      <l>
-                        <pb n="105" facs="tcp:023035_0103_0FBAE0462291B370"/>And ſelf degraded, wear the badge of ſlaves.</l>
+                        <pb n="105" facs="unknown:023035_0103_0FBAE0462291B370"/>And ſelf degraded, wear the badge of ſlaves.</l>
                      <l>We boaſt a cauſe of glory and renown;</l>
                      <l>We arm to purchaſe the ſublimeſt gift</l>
                      <l>The mind of man is capable to taſte.</l>
@@ -4021,7 +4022,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>And place the fav'rite nurs'd in fortune's lap,</l>
                      <l>Beyond the reach of aught but heaven itſelf,</l>
                      <l>
-                        <pb n="106" facs="tcp:023035_0104_0FBAE04890CB2608"/>To teach him what from man to man is due.</l>
+                        <pb n="106" facs="unknown:023035_0104_0FBAE04890CB2608"/>To teach him what from man to man is due.</l>
                      <l>A battle ere tomorrow's ſun retires</l>
                      <l>Shall ſhew the world our pedigree and fame;</l>
                      <l>The Celtiberian race ſhall ne'er be ſlaves,</l>
@@ -4068,7 +4069,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Francis indeed may triumph at our gates,</l>
                      <l>Unleſs Don Juan, and the reſtleſs Cortes,</l>
                      <l>
-                        <pb n="107" facs="tcp:023035_0105_0FBAE04BD4AE6730"/>Are ſoon ſubdu'd, and peace reſtor'd to Spain.</l>
+                        <pb n="107" facs="unknown:023035_0105_0FBAE04BD4AE6730"/>Are ſoon ſubdu'd, and peace reſtor'd to Spain.</l>
                      <l>One glorious conflict, one ſucceſsful day,</l>
                      <l>Will ſhew the world the heir of Ferdinand</l>
                      <l>For empire born, in ſpite of all his foes.</l>
@@ -4117,7 +4118,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Inur'd to arms, my ſoul's eſtrang'd to fear;</l>
                      <l>Yet I lament my fate;—my ſire and prince,</l>
                      <l>
-                        <pb n="108" facs="tcp:023035_0106_0FBAE04DC1C32FE8"/>Point me to glory, combating my will,</l>
+                        <pb n="108" facs="unknown:023035_0106_0FBAE04DC1C32FE8"/>Point me to glory, combating my will,</l>
                      <l>And make my duty lead to deeds I hate.</l>
                      <l>This conteſt is no democratic rage,</l>
                      <l>No lewd tumultuous fury juſt let looſe—</l>
@@ -4161,7 +4162,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <speaker>DON VELASCO.</speaker>
                      <l>Adieu, my ſon—my ſoul is all on fire.</l>
                      <l>
-                        <pb n="109" facs="tcp:023035_0107_0FBAE04F33805F38"/>Proud glory waits to make thy name immortal,</l>
+                        <pb n="109" facs="unknown:023035_0107_0FBAE04F33805F38"/>Proud glory waits to make thy name immortal,</l>
                      <l>By promis'd triumphs ere the morrow cloſe.</l>
                   </sp>
                   <sp>
@@ -4201,7 +4202,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Who hover round, clos'd up the monarch's ear,</l>
                      <l>And ſteel'd his heart againſt the cries of Spain?</l>
                      <l>
-                        <pb n="110" facs="tcp:023035_0108_0FBAE050A3DF45F8"/>Ambition low'ring on a lordly brow</l>
+                        <pb n="110" facs="unknown:023035_0108_0FBAE050A3DF45F8"/>Ambition low'ring on a lordly brow</l>
                      <l>May yet ſubdue the citizens of Spain.</l>
                   </sp>
                   <sp>
@@ -4237,7 +4238,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <stage>Exeunt.</stage>
                </div>
                <div n="4" type="scene">
-                  <pb n="111" facs="tcp:023035_0109_0FBAE054A7D14C60"/>
+                  <pb n="111" facs="unknown:023035_0109_0FBAE054A7D14C60"/>
                   <head>SCENE IV.</head>
                   <stage>DON JUAN DE PADILLA <hi>and</hi> DON FRANCIS.</stage>
                   <sp>
@@ -4276,7 +4277,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>While I, a wretched priſoner of ſtate,</l>
                      <l>Stand the ſad monument of human ills?—</l>
                      <l>
-                        <pb n="112" facs="tcp:023035_0110_0FBAE056AFB3F9A0"/>She wept and ſigh'd, till ſtrong reſentment roſe,</l>
+                        <pb n="112" facs="unknown:023035_0110_0FBAE056AFB3F9A0"/>She wept and ſigh'd, till ſtrong reſentment roſe,</l>
                      <l>And kindled in her breaſt a noble flame.</l>
                      <l>With all the powers of eloquence and truth,</l>
                      <l>I ſtrove to ſooth her wandering mind to reſt.</l>
@@ -4315,7 +4316,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>And, if we need, her ſignet is obtain'd.</l>
                   </sp>
                   <sp>
-                     <pb n="113" facs="tcp:023035_0111_0FBAE0582AC21350"/>
+                     <pb n="113" facs="unknown:023035_0111_0FBAE0582AC21350"/>
                      <speaker>FRANCIS.</speaker>
                      <l>But malice whiſpers murmurs through the camp,</l>
                      <l>And half our ſoldiers clamour for their pay—</l>
@@ -4353,7 +4354,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>And, join'd by all the matrons of my train,</l>
                      <l>In weeds of woe, and ſable garments dreſs'd,</l>
                      <l>
-                        <pb n="114" facs="tcp:023035_0112_0FBAE059A50E6F58"/>I kneel'd before the conſecrated ſhrines,</l>
+                        <pb n="114" facs="unknown:023035_0112_0FBAE059A50E6F58"/>I kneel'd before the conſecrated ſhrines,</l>
                      <l>And aſk'd a bleſſing on my country's cauſe;</l>
                      <l>But 'twas to him whoſe ſanction ſeals the claim,</l>
                      <l>Of peace and freedom to the human race,</l>
@@ -4399,7 +4400,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                         <l>But Juan waits, and fortune's on the wing:</l>
                         <l>The fickle goddeſs waves her gloſſy plume,</l>
                         <l>
-                           <pb n="115" facs="tcp:023035_0113_0FBAE05B29DCE758"/>And holds an era in the life of man,</l>
+                           <pb n="115" facs="unknown:023035_0113_0FBAE05B29DCE758"/>And holds an era in the life of man,</l>
                         <l>When all is hung ſuſpended on his choice;</l>
                         <l>Election made, judiciouſly he ſtands</l>
                         <l>On the proud ſummit of all human fame;</l>
@@ -4445,7 +4446,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>If it adorns the Conde Haro's breaſt.</l>
                   </sp>
                   <sp>
-                     <pb n="116" facs="tcp:023035_0114_0FBAE05CA2F52090"/>
+                     <pb n="116" facs="unknown:023035_0114_0FBAE05CA2F52090"/>
                      <speaker>FRANCIS.</speaker>
                      <l>Tomorrow proves him what the world reports,</l>
                      <l>And weaves a garland to adorn his brow,</l>
@@ -4464,7 +4465,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </div>
             </div>
             <div n="2" type="act">
-               <pb n="117" facs="tcp:023035_0115_0FBAE0614CCEDAB8"/>
+               <pb n="117" facs="unknown:023035_0115_0FBAE0614CCEDAB8"/>
                <head>ACT II.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -4504,7 +4505,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>And learns the duty that a monarch owes,</l>
                      <l>To heaven—the people—and the rights of man.</l>
                      <l>
-                        <pb n="118" facs="tcp:023035_0116_0FBAE062A5E86050"/>Let him reſtore the liberties of Spain—</l>
+                        <pb n="118" facs="unknown:023035_0116_0FBAE062A5E86050"/>Let him reſtore the liberties of Spain—</l>
                      <l>Diſmiſs the robbers that arreſt his ear—</l>
                      <l>Thoſe penſion'd plunderers that rudely ſeize</l>
                      <l>What nature gave, and what our fathers won.</l>
@@ -4545,7 +4546,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>And rouſe each languid arm with tenfold zeal</l>
                      <l>To point the thunder at a tyrant's head,</l>
                      <l>
-                        <pb n="119" facs="tcp:023035_0117_0FBAE06425CE9E90"/>Ere yet the lingering mind indignant ſinks,</l>
+                        <pb n="119" facs="unknown:023035_0117_0FBAE06425CE9E90"/>Ere yet the lingering mind indignant ſinks,</l>
                      <l>Debas'd and trembling at a deſpot's frown.</l>
                      <l>Rather let cities that ſupport his reign,</l>
                      <l>Like Torbolatan yeſterday reduc'd,</l>
@@ -4587,7 +4588,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   </sp>
                </div>
                <div n="2" type="scene">
-                  <pb n="120" facs="tcp:023035_0118_0FBAE065A43A1BE0"/>
+                  <pb n="120" facs="unknown:023035_0118_0FBAE065A43A1BE0"/>
                   <head>SCENE II.</head>
                   <stage>
                      <hi>Enter</hi> DON FRANCIS <hi>and</hi> DONNA LOUISA.</stage>
@@ -4633,7 +4634,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                            <desc>•</desc>
                         </gap>'d to the hilt in rancour's baneful ſtream—</l>
                      <l>
-                        <pb n="121" facs="tcp:023035_0119_0FBAE06725DC17C8"/>That the ſteel'd heart may deeper plunge the blade,</l>
+                        <pb n="121" facs="unknown:023035_0119_0FBAE06725DC17C8"/>That the ſteel'd heart may deeper plunge the blade,</l>
                      <l>Without a ſigh—when from the gaping wound,</l>
                      <l>Out ruſhes, ſtaring, the aſtoniſh'd ſoul</l>
                      <l>Of his lov'd friend, or of a brother ſlain.</l>
@@ -4683,7 +4684,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>But, if in battle he ſhould bravely fall—</l>
                   </sp>
                   <sp>
-                     <pb n="122" facs="tcp:023035_0120_0FBAE06920719E48"/>
+                     <pb n="122" facs="unknown:023035_0120_0FBAE06920719E48"/>
                      <speaker>LOUISA.</speaker>
                      <l>A ſtern, enrag'd, inexorable ſire,</l>
                      <l>Might hold Louiſa guilty of his death.</l>
@@ -4726,7 +4727,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>With all the ſoftneſs of fraternal love,</l>
                      <l>He cries—forbear to think of me again,</l>
                      <l>
-                        <pb n="123" facs="tcp:023035_0121_0FBAE06D1E999A58"/>Or that thy brother hazards fame or life,</l>
+                        <pb n="123" facs="unknown:023035_0121_0FBAE06D1E999A58"/>Or that thy brother hazards fame or life,</l>
                      <l>Againſt the valour of a dearer name.</l>
                      <l>Alas!—how weak my trembling heart's become—</l>
                      <l>Oh!—what has my unguarded tongue diſclos'd!</l>
@@ -4769,7 +4770,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>He kiſs'd my cheek, and caught my trembling hand,</l>
                      <l>Fix'd on my finger this invalu'd gem,</l>
                      <l>
-                        <pb n="124" facs="tcp:023035_0122_0FBAE06FA3E7D948"/>And by a ſolemn oath he bound his ſoul,</l>
+                        <pb n="124" facs="unknown:023035_0122_0FBAE06FA3E7D948"/>And by a ſolemn oath he bound his ſoul,</l>
                      <l>To grant each prayer when this ſhould plead its claim.</l>
                   </sp>
                   <sp>
@@ -4816,7 +4817,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   </sp>
                </div>
                <div n="3" type="scene">
-                  <pb n="125" facs="tcp:023035_0123_0FBAE070E84B4308"/>
+                  <pb n="125" facs="unknown:023035_0123_0FBAE070E84B4308"/>
                   <head>SCENE III.</head>
                   <stage>CONDE HARO, <hi>ſolus.</hi>
                   </stage>
@@ -4852,7 +4853,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   </sp>
                </div>
                <div n="4" type="scene">
-                  <pb n="126" facs="tcp:023035_0124_0FBAE072681C66F0"/>
+                  <pb n="126" facs="unknown:023035_0124_0FBAE072681C66F0"/>
                   <head>SCENE IV.</head>
                   <stage>DON JUAN DE PADILLA <hi>and</hi> DONNA MARIA.</stage>
                   <sp>
@@ -4893,7 +4894,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>The liberties of Spain, my country's rights.</l>
                   </sp>
                   <sp>
-                     <pb n="127" facs="tcp:023035_0125_0FBAE073EABC6E00"/>
+                     <pb n="127" facs="unknown:023035_0125_0FBAE073EABC6E00"/>
                      <speaker>MARIA.</speaker>
                      <l>So dangerous a foe has Spain ne'er ſeen</l>
                      <l>Since from the brindled North, the ſavage hords</l>
@@ -4936,7 +4937,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Create a fear that may diſturb thy peace.</l>
                   </sp>
                   <sp>
-                     <pb n="128" facs="tcp:023035_0126_0FBAE07569FE6D60"/>
+                     <pb n="128" facs="unknown:023035_0126_0FBAE07569FE6D60"/>
                      <speaker>DON JUAN.</speaker>
                      <l>Haſte back, my love, leſt ſome miſhap befal;</l>
                      <l>The good Zemora guards Toledo's gates</l>
@@ -4974,7 +4975,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <stage>Exeunt.</stage>
                </div>
                <div n="5" type="scene">
-                  <pb n="129" facs="tcp:023035_0127_0FBAE076F018BA98"/>
+                  <pb n="129" facs="unknown:023035_0127_0FBAE076F018BA98"/>
                   <head>SCENE V.</head>
                   <stage>DON JUAN DE PADILLA <hi>and</hi> DON PEDRO.</stage>
                   <sp>
@@ -5010,7 +5011,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>When freedom's cauſe ſtands trembling on the ſword.</l>
                   </sp>
                   <sp>
-                     <pb n="130" facs="tcp:023035_0128_0FBAE0795D4414A8"/>
+                     <pb n="130" facs="unknown:023035_0128_0FBAE0795D4414A8"/>
                      <speaker>DON JUAN.</speaker>
                      <l>Tomorrow gives a glorious teſt of worth;</l>
                      <l>Courage will ſhine conſpicuouſly bright,</l>
@@ -5070,7 +5071,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                            <desc>•</desc>
                         </gap>or ſlaves to power.</l>
                      <l>
-                        <pb n="131" facs="tcp:023035_0129_0FBAE07DE36F1350"/>A waxen pillar in the central point</l>
+                        <pb n="131" facs="unknown:023035_0129_0FBAE07DE36F1350"/>A waxen pillar in the central point</l>
                      <l>Of ſol's meridian beams, melts not ſo faſt,</l>
                      <l>As will their army waſte by court intrigues,</l>
                      <l>By fraud, by bribes, by flattery and fear:</l>
@@ -5093,7 +5094,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </div>
             </div>
             <div n="3" type="act">
-               <pb n="132" facs="tcp:023035_0130_0FBAE0826D5E9020"/>
+               <pb n="132" facs="unknown:023035_0130_0FBAE0826D5E9020"/>
                <head>ACT III.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -5130,7 +5131,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Should heal my heart, and reinſtate my peace.</l>
                   </sp>
                   <sp>
-                     <pb n="133" facs="tcp:023035_0131_0FBAE08412330EC0"/>
+                     <pb n="133" facs="unknown:023035_0131_0FBAE08412330EC0"/>
                      <speaker>LOUISA.</speaker>
                      <l>O might I weep my weary life away,</l>
                      <l>And cloſe mine eyes on miſery at large!—</l>
@@ -5178,7 +5179,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Great ſouls—form'd in the ſame etherial mould,</l>
                      <l>Are ne'er at war—they, different paths</l>
                      <l>
-                        <pb n="134" facs="tcp:023035_0132_0FBAE08531C48A20"/>Of glory may purſue, with equal zeal;</l>
+                        <pb n="134" facs="unknown:023035_0132_0FBAE08531C48A20"/>Of glory may purſue, with equal zeal;</l>
                      <l>Yet not a cruel, or malignant thought,</l>
                      <l>Or rancorous deſign, deform the mind.</l>
                      <l>I much eſteem Don Juan and his friends,</l>
@@ -5221,7 +5222,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>And both are aim'd at ſad Louiſa's breaſt.</l>
                   </sp>
                   <sp>
-                     <pb n="135" facs="tcp:023035_0133_0FBAE086A43FF010"/>
+                     <pb n="135" facs="unknown:023035_0133_0FBAE086A43FF010"/>
                      <speaker>DE HARO.</speaker>
                      <l>Thy huſband!—hah—raſh maid—</l>
                   </sp>
@@ -5253,7 +5254,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <stage>Exeunt.</stage>
                </div>
                <div n="2" type="scene">
-                  <pb n="136" facs="tcp:023035_0134_0FBAE08864565E40"/>
+                  <pb n="136" facs="unknown:023035_0134_0FBAE08864565E40"/>
                   <head>SCENE II.</head>
                   <stage>DON VELASCO <hi>and</hi> DONNA LOUISA.</stage>
                   <sp>
@@ -5289,7 +5290,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>To crown thy nuptials with a noble lord,</l>
                      <l>To whom thou art betroth'd—who claims thy hand;</l>
                      <l>
-                        <pb n="137" facs="tcp:023035_0135_0FBAE089ADD9BF48"/>Thou ſhalt be his—when from the field are chas'd</l>
+                        <pb n="137" facs="unknown:023035_0135_0FBAE089ADD9BF48"/>Thou ſhalt be his—when from the field are chas'd</l>
                      <l>Theſe bold conſpirators—I've pledg'd my faith.</l>
                   </sp>
                   <sp>
@@ -5330,7 +5331,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>And leaves man ſhallow'd on the oozy ſtrand.</l>
                   </sp>
                   <sp>
-                     <pb n="138" facs="tcp:023035_0136_0FBAE08C44A44B20"/>
+                     <pb n="138" facs="unknown:023035_0136_0FBAE08C44A44B20"/>
                      <speaker>FRANCIS.</speaker>
                      <l>Tordeſilas is ſeiz'd—the queen betray'd—</l>
                      <l>Don Pedro fled, and join'd the emperor's troops.</l>
@@ -5377,7 +5378,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>If victory declares on freedom's ſide,</l>
                      <l>My arm ſhall aid in all his juſt demands.</l>
                      <l>
-                        <pb n="139" facs="tcp:023035_0137_0FBAE08D6B461448"/>Ere Ferdinand had ſeiz'd the neighbouring crowns,</l>
+                        <pb n="139" facs="unknown:023035_0137_0FBAE08D6B461448"/>Ere Ferdinand had ſeiz'd the neighbouring crowns,</l>
                      <l>He form'd a ſyſtem to enſlave mankind:</l>
                      <l>But Charles improves on his deſpotic plan;</l>
                      <l>Yet one campaign, one ſignal victory gain'd,</l>
@@ -5416,7 +5417,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Or ſpreads victorious her expanded wing,</l>
                      <l>And ſhrouds the rights which reaſon lends to man.</l>
                      <l>
-                        <pb n="140" facs="tcp:023035_0138_0FBAE08EE5583610"/>I give my life a cheerful ſacrifice;</l>
+                        <pb n="140" facs="unknown:023035_0138_0FBAE08EE5583610"/>I give my life a cheerful ſacrifice;</l>
                      <l>'Tis a juſt debt my country may demand.</l>
                      <l>And if I fall in ſuch a glorious cauſe,</l>
                      <l>I'll boaſt my lot;—let future pens record</l>
@@ -5456,7 +5457,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <stage>Exit.</stage>
                </div>
                <div n="5" type="scene">
-                  <pb n="141" facs="tcp:023035_0139_0FBAE0906E6F1D90"/>
+                  <pb n="141" facs="unknown:023035_0139_0FBAE0906E6F1D90"/>
                   <head>SCENE V.</head>
                   <stage>
                      <hi>Shouts of victory, hurry and confuſion.</hi>—DONNA MARIA, <hi>ſola.</hi>
@@ -5493,7 +5494,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                         </gap> and freedom ſmile at his command,</l>
                      <l>Or the fell tyrant's ſuffer'd to ſucceed,</l>
                      <l>
-                        <pb n="142" facs="tcp:023035_0140_0FBAE092077D05D0"/>To chain the will, or manacle the mind;)</l>
+                        <pb n="142" facs="unknown:023035_0140_0FBAE092077D05D0"/>To chain the will, or manacle the mind;)</l>
                      <l>There will I calm my agitated breaſt,</l>
                      <l>Dry off thoſe tears which, ſtarting, have betray'd</l>
                      <l>The ſoften'd weakneſs of a female mind.</l>
@@ -5542,7 +5543,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>The wife and infant of my much lov'd lord.</l>
                   </sp>
                   <sp>
-                     <pb n="143" facs="tcp:023035_0141_0FBAE093ED621E48"/>
+                     <pb n="143" facs="unknown:023035_0141_0FBAE093ED621E48"/>
                      <speaker>MARIA.</speaker>
                      <l>Alas! my child—my ſon—my darling boy!</l>
                      <l>The faireſt virtues beam in his young eye;</l>
@@ -5586,7 +5587,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Nor yet in ſlavery meet a lingering death,</l>
                      <l>Beneath a tyrant's foot.</l>
                      <l>
-                        <pb n="144" facs="tcp:023035_0142_0FBAE0992D9EC988"/>I will avenge my lord—</l>
+                        <pb n="144" facs="unknown:023035_0142_0FBAE0992D9EC988"/>I will avenge my lord—</l>
                      <l>Though the rough ſurges in loud tempeſts roar,</l>
                      <l>'Till the rude billows meet the lowering clouds—</l>
                      <l>I never will deſpair, till my ſoul flies</l>
@@ -5619,7 +5620,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </div>
             </div>
             <div n="4" type="act">
-               <pb n="145" facs="tcp:023035_0143_0FBAE09A6AAAF170"/>
+               <pb n="145" facs="unknown:023035_0143_0FBAE09A6AAAF170"/>
                <head>ACT IV.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -5656,7 +5657,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Thoſe ſacred ſanctions that bind men of worth,</l>
                      <l>That Francis' pardon, or Don Juan's life,</l>
                      <l>
-                        <pb n="146" facs="tcp:023035_0144_0FBAE09C8096E100"/>Shall not impede the glory of the king,</l>
+                        <pb n="146" facs="unknown:023035_0144_0FBAE09C8096E100"/>Shall not impede the glory of the king,</l>
                      <l>Nor cauſe new ruptures, or diſturb the realm.</l>
                   </sp>
                   <sp>
@@ -5706,7 +5707,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Though weeping maids<g ref="char:punc">▪</g> or aged ſires combin'd,</l>
                      <l>Or liſping infants join the matron's tears</l>
                      <l>
-                        <pb n="147" facs="tcp:023035_0145_0FBAE09DE2B5D188"/>To plead their cauſe, my reſolution's fix'd:</l>
+                        <pb n="147" facs="unknown:023035_0145_0FBAE09DE2B5D188"/>To plead their cauſe, my reſolution's fix'd:</l>
                      <l>Theſe outcaſts of the world ſhall be cut off,</l>
                      <l>As nature's ſhreds, and blotted out of time.</l>
                   </sp>
@@ -5745,7 +5746,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>By a baſe, vile, aſſaſſinating hand,</l>
                      <l>Fires all my ſoul with fury and revenge.</l>
                      <l>
-                        <pb n="148" facs="tcp:023035_0146_0FBAE09F67154F60"/>Had I have met my fate at Villabar,</l>
+                        <pb n="148" facs="unknown:023035_0146_0FBAE09F67154F60"/>Had I have met my fate at Villabar,</l>
                      <l>And as a ſoldier fell, and mix'd my blood</l>
                      <l>With the rich ſtream that yeſterday pour'd off,</l>
                      <l>(While freedom's genius ſtoop'd and drop'd a tear,</l>
@@ -5786,7 +5787,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>What can I more—to ſooth thy wounded mind?</l>
                      <l>Say—doſt thou wiſh to ſee thy lov'd Maria?—</l>
                      <l>
-                        <pb n="149" facs="tcp:023035_0147_0FBAE0A1504EE188"/>Or pour a bleſſing on the infant head</l>
+                        <pb n="149" facs="unknown:023035_0147_0FBAE0A1504EE188"/>Or pour a bleſſing on the infant head</l>
                      <l>Of thy young ſon, and bid a laſt adieu?—</l>
                      <l>But if this tender ſcene's too big with grief,</l>
                      <l>Then write whate'er conjugal love inſpires,</l>
@@ -5826,7 +5827,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <stage>Exeunt.</stage>
                </div>
                <div n="3" type="scene">
-                  <pb n="150" facs="tcp:023035_0148_0FBAE0A2661D37A8"/>
+                  <pb n="150" facs="unknown:023035_0148_0FBAE0A2661D37A8"/>
                   <head>SCENE III.</head>
                   <stage>DON VELASCO <hi>and</hi> DONNA LOUISA.</stage>
                   <sp>
@@ -5869,7 +5870,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>The firſt impreſſion of my early youth,</l>
                      <l>Thine own injunction, and my infant heart,</l>
                      <l>
-                        <pb n="151" facs="tcp:023035_0149_0FBAE0A3E8736C48"/>Taught me to love—whate'er Maria lov'd—</l>
+                        <pb n="151" facs="unknown:023035_0149_0FBAE0A3E8736C48"/>Taught me to love—whate'er Maria lov'd—</l>
                      <l>Her brother.—</l>
                   </sp>
                   <sp>
@@ -5912,7 +5913,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>The lying ſemblance of ſo fair a form.</l>
                   </sp>
                   <sp>
-                     <pb n="152" facs="tcp:023035_0150_0FBAE0A5958A4458"/>
+                     <pb n="152" facs="unknown:023035_0150_0FBAE0A5958A4458"/>
                      <speaker>LOUISA.</speaker>
                      <l>By the dear mem'ry of that ſainted name</l>
                      <l>Forgive her daughter's agony of ſoul.</l>
@@ -5961,7 +5962,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Some myſtery conceal'd—that neither ſhe,</l>
                      <l>Nor yet De Haro's bold and dauntleſs tongue,</l>
                      <l>
-                        <pb n="153" facs="tcp:023035_0151_0FBAE0A762E85B08"/>Dare ope before an injur'd father's eye.</l>
+                        <pb n="153" facs="unknown:023035_0151_0FBAE0A762E85B08"/>Dare ope before an injur'd father's eye.</l>
                      <l>Poor lifeleſs maid—ſure ſhe's not dead;—</l>
                      <stage>Lays his hand on her forehead.</stage>
                      <l>She almoſt wakes compaſſion in my breaſt:</l>
@@ -6013,7 +6014,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Thy country bluſhes that ſhe gave thee birth.</l>
                   </sp>
                   <sp>
-                     <pb n="154" facs="tcp:023035_0152_0FBAE0A9A8A64000"/>
+                     <pb n="154" facs="unknown:023035_0152_0FBAE0A9A8A64000"/>
                      <speaker>VELASCO.</speaker>
                      <l>Reſpect becomes thy lip—he is thy lord.—</l>
                   </sp>
@@ -6064,7 +6065,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Or both be bleſs'd, and by thy pardon live.</l>
                   </sp>
                   <sp>
-                     <pb n="155" facs="tcp:023035_0153_0FBAE0AD8BAA7B10"/>
+                     <pb n="155" facs="unknown:023035_0153_0FBAE0AD8BAA7B10"/>
                      <speaker>VELASCO.</speaker>
                      <l>Could my Louiſa proſtitute her fame;</l>
                      <l>In a mad fit of wanton love, entail</l>
@@ -6105,7 +6106,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                            <desc>•</desc>
                         </gap>ly to Charles, and in Velaſco's name,</l>
                      <l>
-                        <pb n="156" facs="tcp:023035_0154_0FBAE0AF3777C888"/>To ſue for pardon from the emperor's hand,</l>
+                        <pb n="156" facs="unknown:023035_0154_0FBAE0AF3777C888"/>To ſue for pardon from the emperor's hand,</l>
                      <l>And claim my bride by his Zelinda's ring:—</l>
                      <l>He gave me both his ſignet and command,</l>
                      <l>And bade me on the moment haſte away;</l>
@@ -6146,7 +6147,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Yet, for Louiſa's ſake, I wiſh to live.</l>
                   </sp>
                   <sp>
-                     <pb n="157" facs="tcp:023035_0155_0FBAE0B1030F6E98"/>
+                     <pb n="157" facs="unknown:023035_0155_0FBAE0B1030F6E98"/>
                      <speaker>DON JUAN.</speaker>
                      <l>Thou muſt away—'tis death to linger here—</l>
                      <l>'Tis raſhneſs in extreme—thou can't eſcape</l>
@@ -6186,7 +6187,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      </lg>
                   </sp>
                   <sp>
-                     <pb n="158" facs="tcp:023035_0156_0FBAE0B2362D1460"/>
+                     <pb n="158" facs="unknown:023035_0156_0FBAE0B2362D1460"/>
                      <speaker>DON JUAN.</speaker>
                      <l>This interview—this moment is my own—</l>
                   </sp>
@@ -6236,7 +6237,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                            <desc>•</desc>
                         </gap>ate;</l>
                      <l>
-                        <pb n="159" facs="tcp:023035_0157_0FBAE0B3A52012F8"/>Or let theſe curling fires, which, from the North,</l>
+                        <pb n="159" facs="unknown:023035_0157_0FBAE0B3A52012F8"/>Or let theſe curling fires, which, from the North,</l>
                      <l>Emblazon nature's face from pole to pole,</l>
                      <l>In mantling flames, in one devouring wreck,</l>
                      <l>Sweep down the ſtars and cruſh this nether world.</l>
@@ -6275,7 +6276,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>And once ye thought the world could give no more.</l>
                   </sp>
                   <sp>
-                     <pb n="160" facs="tcp:023035_0158_0FBAE0B52CE68D78"/>
+                     <pb n="160" facs="unknown:023035_0158_0FBAE0B52CE68D78"/>
                      <speaker>MARIA.</speaker>
                      <l>Ah!—every tender pang that woe can paint,</l>
                      <l>Or for my country—or my much lov'd lord,</l>
@@ -6316,7 +6317,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <stage>JUAN <hi>wipes off a tear, and attempts to withdraw in ſilence.</hi>
                   </stage>
                   <sp>
-                     <pb n="161" facs="tcp:023035_0159_0FBAE0B73A6C8330"/>
+                     <pb n="161" facs="unknown:023035_0159_0FBAE0B73A6C8330"/>
                      <speaker>MARIA.</speaker>
                      <l>Oh! leave me not, thus wretched and forlorn!—</l>
                   </sp>
@@ -6365,7 +6366,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      </l>
                   </sp>
                   <sp>
-                     <pb n="162" facs="tcp:023035_0160_0FBAE0B8295FC818"/>
+                     <pb n="162" facs="unknown:023035_0160_0FBAE0B8295FC818"/>
                      <speaker>MARIA.</speaker>
                      <l>Oh ſtay!—Oh ſtay!—'twas not the midnight toll—</l>
                      <l>One hour more let envious time beſtow.</l>
@@ -6411,7 +6412,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </div>
             </div>
             <div n="5" type="act">
-               <pb n="163" facs="tcp:023035_0161_0FBAE0BA03A51B00"/>
+               <pb n="163" facs="unknown:023035_0161_0FBAE0BA03A51B00"/>
                <head>ACT V.</head>
                <div n="1" type="scene">
                   <head>SCENE I</head>
@@ -6441,7 +6442,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>To flouriſh long beneath her lenient reign;</l>
                   <l>But if, ungratefully, ye ſpurn the gift,</l>
                   <l>
-                     <pb n="164" facs="tcp:023035_0162_0FBAE0BD93B113A0"/>And fly the field, and yield the proffer'd prize—</l>
+                     <pb n="164" facs="unknown:023035_0162_0FBAE0BD93B113A0"/>And fly the field, and yield the proffer'd prize—</l>
                   <l>Bend thy weak necks, and ſervilely ſubmit,</l>
                   <l>Affronted virtue leaves ſuch daſtard ſlaves</l>
                   <l>To faint and tremble at a deſpot's nod.</l>
@@ -6467,7 +6468,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <stage>The people ſhout, and fly to arms.</stage>
                </div>
                <div n="2" type="scene">
-                  <pb n="165" facs="tcp:023035_0163_0FBAE0C08EF76BC0"/>
+                  <pb n="165" facs="unknown:023035_0163_0FBAE0C08EF76BC0"/>
                   <head>SCENE II.</head>
                   <stage>
                      <hi>A Battle without—the City taken by</hi> CONDE HARO—DON<g ref="char:EOLhyphen"/>NA MARIA <hi>fled to the Citadel—the little Son of</hi> DON JUAN <hi>aſleep on a Sofa</hi>—MARIA <hi>weeping over him.</hi>
@@ -6505,7 +6506,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>And barbs the pointed dagger in my breaſt.</l>
                   </sp>
                   <sp>
-                     <pb n="166" facs="tcp:023035_0164_0FBAE0C1E6403C80"/>
+                     <pb n="166" facs="unknown:023035_0164_0FBAE0C1E6403C80"/>
                      <speaker>DE HARO.</speaker>
                      <l>Fain would I ſooth and mitigate thy grief.</l>
                   </sp>
@@ -6549,7 +6550,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Before ill fortune made me Juan's foe;</l>
                      <l>O! heav'n forgive—I lov'd his virtuous wife,</l>
                      <l>
-                        <pb n="167" facs="tcp:023035_0165_0FBAE0C367485DB0"/>And ſecret bore the heart corroding pangs.</l>
+                        <pb n="167" facs="unknown:023035_0165_0FBAE0C367485DB0"/>And ſecret bore the heart corroding pangs.</l>
                      <l>I lov'd in ſilence—ſmother'd all my flame—</l>
                      <l>While honour—juſtice—every ſacred tie,</l>
                      <l>Had made its utterance the blackeſt crime.</l>
@@ -6593,7 +6594,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>When curious eyes ſhall ſeek the mouldering tomb;</l>
                      <l>Where freedom waſtes in tears beſide the turf,</l>
                      <l>
-                        <pb n="168" facs="tcp:023035_0166_0FBAE0C54BD91C90"/>And points the ſtranger to the ſacred ſpot,</l>
+                        <pb n="168" facs="unknown:023035_0166_0FBAE0C54BD91C90"/>And points the ſtranger to the ſacred ſpot,</l>
                      <l>Where death enrols her laſt diſtinguiſh'd ſon,</l>
                      <l>Urg'd to his fate by probity and zeal,</l>
                      <l>To ſave his country from a ſervile yoke.</l>
@@ -6635,7 +6636,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>And complete thy work—dar'ſt thou not ſtrike,</l>
                      <l>Who haſt beheld Don Juan on a ſcaffold,</l>
                      <l>
-                        <pb n="169" facs="tcp:023035_0167_0FBAE0C664E0EB00"/>Breathleſs and pale, and as a felon die?—</l>
+                        <pb n="169" facs="unknown:023035_0167_0FBAE0C664E0EB00"/>Breathleſs and pale, and as a felon die?—</l>
                      <l>Give me a ſword, I'll meaſure it with thine,</l>
                      <l>For by the powers above, to thee I ſwear,</l>
                      <l>Maria lives but to avenge his death.</l>
@@ -6680,7 +6681,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>The debt was cancell'd when he call'd me, <hi>friend,</hi>
                      </l>
                      <l>
-                        <pb n="170" facs="tcp:023035_0168_0FBAE0C802CD21F0"/>And <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <pb n="170" facs="unknown:023035_0168_0FBAE0C802CD21F0"/>And <gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>de me, with a tender, gentle hand,</l>
                      <l>Wipe off Maria's tears, and ſave her ſon,</l>
@@ -6727,7 +6728,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <stage>Exit.</stage>
                </div>
                <div n="3" type="scene">
-                  <pb n="171" facs="tcp:023035_0169_0FBAE0C966C2F940"/>
+                  <pb n="171" facs="unknown:023035_0169_0FBAE0C966C2F940"/>
                   <head>SCENE III.</head>
                   <stage>DON VELASCO <hi>and</hi> CONDE HARO.</stage>
                   <sp>
@@ -6767,7 +6768,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Would dignify the moſt illuſtrious name.</l>
                   </sp>
                   <sp>
-                     <pb n="172" facs="tcp:023035_0170_0FBAE0CBCBCDD5D8"/>
+                     <pb n="172" facs="unknown:023035_0170_0FBAE0CBCBCDD5D8"/>
                      <speaker>VELASCO.</speaker>
                      <l>Thy love tales whine in her diſdainful ear.</l>
                      <l>This idle, rapturous pageantry of words,</l>
@@ -6814,7 +6815,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <speaker>DE HARO.</speaker>
                      <l>Hah!—daſtard—villain—ſlave—Oh! heavens!</l>
                      <l>
-                        <pb n="173" facs="tcp:023035_0171_0FBAE0CD70311110"/>Can the great God command I ſhould ſubmit</l>
+                        <pb n="173" facs="unknown:023035_0171_0FBAE0CD70311110"/>Can the great God command I ſhould ſubmit</l>
                      <l>To ſuch reproach—ev'n from a father's lip?—</l>
                   </sp>
                   <stage>Suddenly lays his hand on his ſword.</stage>
@@ -6866,7 +6867,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Never.—</l>
                   </sp>
                   <sp>
-                     <pb n="174" facs="tcp:023035_0172_0FBAE0D242ACA1A0"/>
+                     <pb n="174" facs="unknown:023035_0172_0FBAE0D242ACA1A0"/>
                      <speaker>VELASCO.</speaker>
                      <l>Never?—</l>
                   </sp>
@@ -6913,7 +6914,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Heav'n blaſt my eyes!—Say, can Don Francis live?—</l>
                   </sp>
                   <sp>
-                     <pb n="175" facs="tcp:023035_0173_0FBAE0D40C4DDF30"/>
+                     <pb n="175" facs="unknown:023035_0173_0FBAE0D40C4DDF30"/>
                      <speaker>FRANCIS.</speaker>
                      <l>—Thou ſee'ſt thy duteous ſon—</l>
                      <l>The wedded huſband of thy lov'd Louiſa—</l>
@@ -6957,7 +6958,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   </sp>
                </div>
                <div n="4" type="scene">
-                  <pb n="176" facs="tcp:023035_0174_0FBAE0D5817A9210"/>
+                  <pb n="176" facs="unknown:023035_0174_0FBAE0D5817A9210"/>
                   <head>SCENE IV.</head>
                   <stage>LOUISA, <hi>ſola, on her knees, looking up to Heaven in agony, with her Father's Sword in her hand, pointed to her breaſt.</hi>
                   </stage>
@@ -6992,7 +6993,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <speaker>FRANCIS.</speaker>
                      <l>Oh! my Louiſa—my love—my bride!—</l>
                      <l>
-                        <pb n="177" facs="tcp:023035_0175_0FBAE0D6E9236AF8"/>My wife—my ſoul's whole treaſure—ſtay—</l>
+                        <pb n="177" facs="unknown:023035_0175_0FBAE0D6E9236AF8"/>My wife—my ſoul's whole treaſure—ſtay—</l>
                      <l>Thy dreadful purpoſe hold!—</l>
                   </sp>
                   <sp>
@@ -7044,7 +7045,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      <l>Life loſt all worth in her expiring ſigh—</l>
                      <l>Adieu, my friend, for time has loſt its charms.</l>
                      <l>
-                        <pb n="178" facs="tcp:023035_0176_0FBAE0D864A26718"/>The free born mind mounts upwards with the gods,</l>
+                        <pb n="178" facs="unknown:023035_0176_0FBAE0D864A26718"/>The free born mind mounts upwards with the gods,</l>
                      <l>And ſoars and ſpurns a baſe, ignoble world.
 <stage>Dies.</stage>
                      </l>
@@ -7076,11 +7077,11 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
             </div>
          </div>
          <div type="half_title">
-            <pb facs="tcp:023035_0177_0FBAE0DA22E958F0"/>
+            <pb facs="unknown:023035_0177_0FBAE0DA22E958F0"/>
             <p>MISCELLANEOUS POEMS.</p>
          </div>
          <div type="poems">
-            <pb facs="tcp:023035_0178_0FBAE0DB65195080"/>
+            <pb facs="unknown:023035_0178_0FBAE0DB65195080"/>
             <head>MISCELLANEOUS POEMS.</head>
             <div type="poem">
                <head>To Mrs. <hi>MONTAGUE,</hi> Author of "<hi>OB<g ref="char:EOLhyphen"/>SERVATIONS</hi> on the <hi>GENIUS</hi> and <hi>WRIT<g ref="char:EOLhyphen"/>INGS</hi> of <hi>SHAKESPEARE.</hi>"</head>
@@ -7108,7 +7109,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      </gap> the meed</l>
                   <l>Of fond applauſe, from Tyber to the Tweed;</l>
                   <l>
-                     <pb n="182" facs="tcp:023035_0179_0FBAE0DCE3CDDCF0"/>Each humbler muſe at diſtance may admire,</l>
+                     <pb n="182" facs="unknown:023035_0179_0FBAE0DCE3CDDCF0"/>Each humbler muſe at diſtance may admire,</l>
                   <l>But none to Shakeſpeare's fame ere dare aſpire.</l>
                   <l>And if your iſle, where he ſo long has charm'd,</l>
                   <l>If Britain's ſons, when by his mantle warm'd,</l>
@@ -7134,7 +7135,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </closer>
             </div>
             <div type="poem">
-               <pb n="183" facs="tcp:023035_0180_0FBAE0DE66646650"/>
+               <pb n="183" facs="unknown:023035_0180_0FBAE0DE66646650"/>
                <head>To TORRISMOND.</head>
                <argument>
                   <p>A young Gentleman educated in Europe, recommended to the Author's acquaintance, by a Friend of diſtinction.</p>
@@ -7175,7 +7176,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Folly and fraud the manly powers debas'd,</l>
                   <l>And from the ſoul th' etherial ſpark eras'd,</l>
                   <l>
-                     <pb n="184" facs="tcp:023035_0181_0FBAE0E0458B72E8"/>Plung'd in the depth of black and dreary night,</l>
+                     <pb n="184" facs="unknown:023035_0181_0FBAE0E0458B72E8"/>Plung'd in the depth of black and dreary night,</l>
                   <l>No <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>e could trace one avenue to light.</l>
@@ -7218,7 +7219,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Of orb o'er orb, that aids the nightly dance,</l>
                   <l>Of planets rolling through the broad expanſe;</l>
                   <l>
-                     <pb n="185" facs="tcp:023035_0182_0FBAE0E1A453C630"/>Some viſionary ſouls have loſt their way,</l>
+                     <pb n="185" facs="unknown:023035_0182_0FBAE0E1A453C630"/>Some viſionary ſouls have loſt their way,</l>
                   <l>Eccentric wandering 'mid the noon tide ray.</l>
                </lg>
                <lg>
@@ -7257,7 +7258,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Yet fears alarm, or ſecret dread of ſhame;</l>
                   <l>His brutal wiſhes, pride, or love of fame,</l>
                   <l>
-                     <pb n="186" facs="tcp:023035_0183_0FBAE0E55D08F3F0"/>Alternate drag him with magnectic force,</l>
+                     <pb n="186" facs="unknown:023035_0183_0FBAE0E55D08F3F0"/>Alternate drag him with magnectic force,</l>
                   <l>'Till infidelity's his laſt reſource;</l>
                   <l>By turns exploding grace, free will, and fate,</l>
                   <l>Still apprehenſive of ſome future ſtate,</l>
@@ -7294,7 +7295,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>When conſcience whiſpers, thy probation's o'er,</l>
                   <l>Or her ſoft voice may loud as thunder roar;</l>
                   <l>
-                     <pb n="187" facs="tcp:023035_0184_0FBAE0E7E686BF48"/>With what amaze you'll find the chriſtian ſcheme</l>
+                     <pb n="187" facs="unknown:023035_0184_0FBAE0E7E686BF48"/>With what amaze you'll find the chriſtian ſcheme</l>
                   <l>Is not the product of a brain ſick dream.</l>
                </lg>
                <lg>
@@ -7307,7 +7308,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </lg>
             </div>
             <div type="poem">
-               <pb n="188" facs="tcp:023035_0185_0FBAE0E8E3B43E58"/>
+               <pb n="188" facs="unknown:023035_0185_0FBAE0E8E3B43E58"/>
                <head>A POLITICAL REVERIE.</head>
                <epigraph>
                   <q>
@@ -7348,7 +7349,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Of ſlaughter'd cities, and their ſinking ſpires,</l>
                   <l>By Grecian rage wrap'd in avening fires;</l>
                   <l>
-                     <pb n="189" facs="tcp:023035_0186_0FBAE0EA6770E898"/>To bolder pens I leave the tragic tale,</l>
+                     <pb n="189" facs="unknown:023035_0186_0FBAE0EA6770E898"/>To bolder pens I leave the tragic tale,</l>
                   <l>While ſome kind muſe from Tempe's gentle vale,</l>
                   <l>With ſofter ſymphony ſhall touch the ſtring,</l>
                   <l>And happier tidings from Parnaſſus bring.</l>
@@ -7388,7 +7389,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Where liberty, a happy goddeſs, reigns.</l>
                </lg>
                <lg>
-                  <pb n="190" facs="tcp:023035_0187_0FBAE0EBE7624A68"/>
+                  <pb n="190" facs="unknown:023035_0187_0FBAE0EBE7624A68"/>
                   <l>No deſpot here ſhall rule with awful ſway,</l>
                   <l>Nor orphan's ſpoils become the minion's prey;</l>
                   <l>No more the widow'd bleeding boſom mourns,</l>
@@ -7443,7 +7444,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Strong and erect, like ſome fair poliſh'd tower,</l>
                   <l>She long defy'd each neighb'ring hoſtile power,</l>
                   <l>
-                     <pb n="191" facs="tcp:023035_0188_0FBAE0ED650C44A8"/>And ſent her brave and valiant ſons in queſt</l>
+                     <pb n="191" facs="unknown:023035_0188_0FBAE0ED650C44A8"/>And ſent her brave and valiant ſons in queſt</l>
                   <l>Of foreign realms, who by no fear repreſs'd,</l>
                   <l>The ſinking cliffs of Europe's happy ſhore,</l>
                   <l>They left behind, new climates to explore.</l>
@@ -7482,7 +7483,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Starting, I cry'd—"Oh! ſacred form forgive,</l>
                   <l>Or me from yonder nether world remove;—</l>
                   <l>
-                     <pb n="192" facs="tcp:023035_0189_0FBAE0EEE8FD83D8"/>Has freedom's genius left Britannia's ſhore?</l>
+                     <pb n="192" facs="unknown:023035_0189_0FBAE0EEE8FD83D8"/>Has freedom's genius left Britannia's ſhore?</l>
                   <l>And muſt her ſleeping patriots live no more?</l>
                   <l>Ariſe, <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -7524,7 +7525,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>At awful diſtance from his radiant throne,</l>
                   <l>Suſpended, this terreſtial ball hangs down;</l>
                   <l>
-                     <pb n="193" facs="tcp:023035_0190_0FBAE0F079749288"/>Yet ſtill preſides and watches o'er the fates,</l>
+                     <pb n="193" facs="unknown:023035_0190_0FBAE0F079749288"/>Yet ſtill preſides and watches o'er the fates,</l>
                   <l>Of all the kingdoms that his power creates.</l>
                </lg>
                <lg>
@@ -7569,7 +7570,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>May ſee Columbia's embrio pendants play,</l>
                   <l>And infant names cut the watry way;</l>
                   <l>
-                     <pb n="194" facs="tcp:023035_0191_0FBAE0F1E4240788"/>Fame's outſtretch'd wing may on the eaſtern gales</l>
+                     <pb n="194" facs="unknown:023035_0191_0FBAE0F1E4240788"/>Fame's outſtretch'd wing may on the eaſtern gales</l>
                   <l>Leave the proud Thames, and ſpread her whiten'd ſails.</l>
                </lg>
                <lg>
@@ -7614,7 +7615,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </lg>
             </div>
             <div type="poem">
-               <pb n="195" facs="tcp:023035_0192_0FBAE0F3C4474E70"/>
+               <pb n="195" facs="unknown:023035_0192_0FBAE0F3C4474E70"/>
                <head>To Mr. —.</head>
                <argument>
                   <p>Alluding to a Converſation which favoured the Opinion of Fataliſm; that human Action, whether good or evil, ſprings from the Principle of ſelf Love, void of any real Benevo<g ref="char:EOLhyphen"/>lence, when traced up to its Source.</p>
@@ -7656,7 +7657,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>When the next moment may blot out his name.</l>
                </lg>
                <lg>
-                  <pb n="196" facs="tcp:023035_0193_0FBAE0F90111CDC0"/>
+                  <pb n="196" facs="unknown:023035_0193_0FBAE0F90111CDC0"/>
                   <l>Can't the wiſe precepts of a Plato's ſchool,</l>
                   <l>Or a divine—a ſtill more perfect rule,</l>
                   <l>Arouſe, exalt, and animate the ſoul</l>
@@ -7697,7 +7698,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>If virtuous friendſhip has no ſolid baſe,</l>
                   <l>But falſe deception holds the ſacred place;</l>
                   <l>
-                     <pb n="197" facs="tcp:023035_0194_0FBAE0FAE9B0A738"/>Then from thy mem'ry raſe out every line,</l>
+                     <pb n="197" facs="unknown:023035_0194_0FBAE0FAE9B0A738"/>Then from thy mem'ry raſe out every line,</l>
                   <l>Nor recollect a ſentiment of mine,</l>
                   <l>But dark oblivion's ſable veil draw o'er,</l>
                   <l>And I'll forbear to interrupt thee more.</l>
@@ -7714,7 +7715,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </lg>
             </div>
             <div type="poem">
-               <pb n="198" facs="tcp:023035_0195_0FBAE0FC81C041E8"/>
+               <pb n="198" facs="unknown:023035_0195_0FBAE0FC81C041E8"/>
                <head>On a <hi>SURVEY</hi> of the <hi>HEAVENS.</hi>
                </head>
                <lg>
@@ -7755,7 +7756,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Not even Newton's godlike mind,</l>
                   <l>Nor all the ſages of mankind,</l>
                   <l>
-                     <pb n="199" facs="tcp:023035_0196_0FBAE0FE4D125040"/>Could e'er aſſign another cauſe,</l>
+                     <pb n="199" facs="unknown:023035_0196_0FBAE0FE4D125040"/>Could e'er aſſign another cauſe,</l>
                   <l>Though much they talk of nature's laws;</l>
                   <l>Of gravity's attractive force,</l>
                   <l>They own the gra<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -7798,7 +7799,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </lg>
             </div>
             <div type="poem">
-               <pb n="200" facs="tcp:023035_0197_0FBADFD066362290"/>
+               <pb n="200" facs="unknown:023035_0197_0FBADFD066362290"/>
                <head>On the <hi>DEATH</hi> of Mrs. <hi>S.</hi> —, who died within a few Days after her <hi>MARRIAGE.</hi>
                </head>
                <lg>
@@ -7835,7 +7836,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Selim ſtill feels the keener ſmart</l>
                   <l>That rankles in his bleeding heart;</l>
                   <l>
-                     <pb n="201" facs="tcp:023035_0198_0FBADFD3DD874BB0"/>He ruſhes on amid the plain,</l>
+                     <pb n="201" facs="unknown:023035_0198_0FBADFD3DD874BB0"/>He ruſhes on amid the plain,</l>
                   <l>And courts the ſword to end his pain:</l>
                   <l>He fell—but ſmil'd in Death's embrace,</l>
                   <l>And cry'd, here ends the idle chace;</l>
@@ -7850,7 +7851,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </lg>
             </div>
             <div type="poem">
-               <pb n="202" facs="tcp:023035_0199_0FBADFD69BB63530"/>
+               <pb n="202" facs="unknown:023035_0199_0FBADFD69BB63530"/>
                <head>The <hi>SQUABBLE</hi> of the <hi>SEA NYMPHS;</hi> or the <hi>SACRIFICE</hi> of the <hi>TUSCARAROES.</hi>
                </head>
                <argument>
@@ -7881,7 +7882,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>In council met to regulate the ſtate,</l>
                   <l>Among their godſhips roſe a warm debate,</l>
                   <l>
-                     <pb n="203" facs="tcp:023035_0200_0FBADFD7E33B68C0"/>What luſcious draught they next ſhould ſubſtitute,</l>
+                     <pb n="203" facs="unknown:023035_0200_0FBADFD7E33B68C0"/>What luſcious draught they next ſhould ſubſtitute,</l>
                   <l>That might the palates of celeſtials ſuit,</l>
                   <l>As Nectar's ſtream no more meandering rolls,</l>
                   <l>The food ambroſial of their ſocial bowls</l>
@@ -7927,7 +7928,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      </gap>s, or the naked ſtrands<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="204" facs="tcp:023035_0201_0FBADFD9F62DCFE0"/>Long practis'd—eaſy he aſſumes the ſhape</l>
+                     <pb n="204" facs="unknown:023035_0201_0FBADFD9F62DCFE0"/>Long practis'd—eaſy he aſſumes the ſhape</l>
                   <l>Of fox, or panther, crocodile, or ape;</l>
                   <l>When 'tis his int'reſt, his ſtep dame he'll aid,</l>
                   <l>One pebble more, and Amphytrite's betray'd.</l>
@@ -7966,7 +7967,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Lent their ſtrong arm in pity to the fair,</l>
                   <l>To aid the bright Salacia's generous care;</l>
                   <l>
-                     <pb n="205" facs="tcp:023035_0202_0FBADFDAEAFE5518"/>Pour'd a profuſion of delicious teas,</l>
+                     <pb n="205" facs="unknown:023035_0202_0FBADFDAEAFE5518"/>Pour'd a profuſion of delicious teas,</l>
                   <l>Which, wafted by a ſoft favonian breeze,</l>
                   <l>Supply'd the wat'ry deities, in ſpite</l>
                   <l>Of all the rage of Jealous Amphytrite.</l>
@@ -8000,7 +8001,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </lg>
             </div>
             <div type="poem">
-               <pb n="206" facs="tcp:023035_0203_0FBADFDED68A89D0"/>
+               <pb n="206" facs="unknown:023035_0203_0FBADFDED68A89D0"/>
                <head>To a YOUNG LADY, On ſhewing an excellent Piece of <hi>PAINTING,</hi> much faded.</head>
                <lg>
                   <l>COME, and attend, my charming maid;</l>
@@ -8039,7 +8040,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>And points the glorious beams of day.</l>
                </lg>
                <lg>
-                  <pb n="207" facs="tcp:023035_0204_0FBADFE10276EF88"/>
+                  <pb n="207" facs="unknown:023035_0204_0FBADFE10276EF88"/>
                   <l>Time and eternity he holds;</l>
                   <l>Nor all eternity unfolds,</l>
                   <l>The glories of Jehovah's name;</l>
@@ -8055,7 +8056,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </lg>
             </div>
             <div type="poem">
-               <pb n="208" facs="tcp:023035_0205_0FBADFE266F8E5F0"/>
+               <pb n="208" facs="unknown:023035_0205_0FBADFE266F8E5F0"/>
                <head>To the Hon. J. WINTHROP, Eſq.</head>
                <argument>
                   <p>Who, on the American Determination, in <hi>1774,</hi> to ſuſpend all Commerce with Britain, (except for the real Neceſſaries of life) requeſted a poetical Liſt of the Articles the Ladies might compriſe under that Head.</p>
@@ -8090,7 +8091,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>For what is virtue, or the winning grace,</l>
                   <l>Of ſoft good humour, playing round the face;</l>
                   <l>
-                     <pb n="209" facs="tcp:023035_0206_0FBADFE3E3EAC748"/>Or what thoſe modeſt antiquated charms,</l>
+                     <pb n="209" facs="unknown:023035_0206_0FBADFE3E3EAC748"/>Or what thoſe modeſt antiquated charms,</l>
                   <l>That lur'd a Brutus to a Portia's arms;</l>
                   <l>Or all the hidden beauties of the mind,</l>
                   <l>Compar'd with gauze, and taſſels well combin'd?</l>
@@ -8130,7 +8131,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>And for a creſt, a gorgon's ſnaky head.</l>
                </lg>
                <lg>
-                  <pb n="210" facs="tcp:023035_0207_0FBADFE75428F708"/>
+                  <pb n="210" facs="unknown:023035_0207_0FBADFE75428F708"/>
                   <l>The good, the wiſe, the prudent, and the gay,</l>
                   <l>Mingle their tears, and ſighs for ſighs repay;</l>
                   <l>Deep anxious thought each gen'rous boſom fills,</l>
@@ -8170,7 +8171,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>With ruffles ſtamp'd, and aprons of tambour,</l>
                   <l>Tippets and handkerchiefs, at leaſt, three ſcore;</l>
                   <l>
-                     <pb n="211" facs="tcp:023035_0208_0FBADFE8A7B2D780"/>With fineſt muſlins that fair India boaſts,</l>
+                     <pb n="211" facs="unknown:023035_0208_0FBADFE8A7B2D780"/>With fineſt muſlins that fair India boaſts,</l>
                   <l>And the choice herbage from Chineſan coaſts;</l>
                   <l>(But while the fragrant hyſon leaf regales,</l>
                   <l>Who'll wear the homeſpun produce of the vales?</l>
@@ -8207,7 +8208,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Though loſs of freedom were the coſtly price,</l>
                   <l>Or flaming comets ſweep the angry ſkies;</l>
                   <l>
-                     <pb n="212" facs="tcp:023035_0209_0FBADFE9E9518F78"/>Or earthquakes rattle, or volcanoes roar;</l>
+                     <pb n="212" facs="unknown:023035_0209_0FBADFE9E9518F78"/>Or earthquakes rattle, or volcanoes roar;</l>
                   <l>Indulge this trifle, and ſhe aſks no more:</l>
                   <l>Can the ſtern patriot Clara's ſuit deny?</l>
                   <l>'Tis beauty aſks, and reaſon muſt comply.</l>
@@ -8248,7 +8249,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </lg>
             </div>
             <div type="poem">
-               <pb n="213" facs="tcp:023035_0210_0FBADFEB651FF7A0"/>
+               <pb n="213" facs="unknown:023035_0210_0FBADFEB651FF7A0"/>
                <head>TO FIDELIO, Long abſent on the great public Cauſe, which agitated all America, in <hi>1776.</hi>
                </head>
                <lg>
@@ -8282,7 +8283,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>A patriot zeal muſt warm the female mind.</l>
                </lg>
                <lg>
-                  <pb n="214" facs="tcp:023035_0211_0FBADFEEC883B3E8"/>
+                  <pb n="214" facs="unknown:023035_0211_0FBADFEEC883B3E8"/>
                   <l>Yet, gentle hope!—come, ſpread thy ſilken wing,</l>
                   <l>And waft me forward to revolving ſpring;</l>
                   <l>Or ere the vernal equinox returns,</l>
@@ -8318,7 +8319,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Then gently lay thee by thy Marcia's clay,</l>
                   <l>'Till both ſhall riſe, and on a tide of day,</l>
                   <l>
-                     <pb n="215" facs="tcp:023035_0212_0FBADFEFEDA80CA0"/>Be wafted on, and ſkim the ambient plains</l>
+                     <pb n="215" facs="unknown:023035_0212_0FBADFEFEDA80CA0"/>Be wafted on, and ſkim the ambient plains</l>
                   <l>Through lucid air, and ſee the God who reigns.</l>
                </lg>
                <lg>
@@ -8335,7 +8336,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </closer>
             </div>
             <div type="poem">
-               <pb n="216" facs="tcp:023035_0213_0FBADFF163A37D48"/>
+               <pb n="216" facs="unknown:023035_0213_0FBADFF163A37D48"/>
                <head>To <hi>HONORIA,</hi> on her <hi>JOURNEY</hi> to <hi>DO<g ref="char:EOLhyphen"/>VER,</hi> 1777.</head>
                <lg>
                   <l>FANCY, for once, her airy wing ſhall ſpread,</l>
@@ -8371,7 +8372,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Yet this, perhaps, might fruſtrate my deſign,</l>
                   <l>She, in oblivion, might enwrap each line;</l>
                   <l>
-                     <pb n="217" facs="tcp:023035_0214_0FBADFF348EDF320"/>For every portrait that my pen can paint,</l>
+                     <pb n="217" facs="unknown:023035_0214_0FBADFF348EDF320"/>For every portrait that my pen can paint,</l>
                   <l>To her deſcriptive eloquence is faint;</l>
                   <l>As while beſide the winding ſtream ſhe roves,</l>
                   <l>And views the proſpects from the pleaſing groves,</l>
@@ -8410,7 +8411,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>When freſh blown laurels ſpring from Warren's grave,</l>
                   <l>Freedom to dreſs, and decorate the brave,</l>
                   <l>
-                     <pb n="218" facs="tcp:023035_0215_0FBADFF465527180"/>For whom kind fortune wreathes the crown of fame,</l>
+                     <pb n="218" facs="unknown:023035_0215_0FBADFF465527180"/>For whom kind fortune wreathes the crown of fame,</l>
                   <l>And ſtamps th' initials of her fav'rite name;</l>
                   <l>When Waſhington, conſpicuous o'er the reſt,</l>
                   <l>By heroes, patriots, and by foes careſs'd,</l>
@@ -8445,7 +8446,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </lg>
             </div>
             <div type="poem">
-               <pb n="219" facs="tcp:023035_0216_0FBADFF5E2DC7040"/>
+               <pb n="219" facs="unknown:023035_0216_0FBADFF5E2DC7040"/>
                <head>LINES, Written after a very ſevere <hi>TEMPEST,</hi> which cleared up ex<g ref="char:EOLhyphen"/>tremely pleaſant.</head>
                <lg>
                   <l>WHEN rolling thunders ſhake the ſkies,</l>
@@ -8484,7 +8485,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>And thus thy goodneſs doſt diſplay.</l>
                </lg>
                <lg>
-                  <pb n="220" facs="tcp:023035_0217_0FBADFF95C41DF18"/>
+                  <pb n="220" facs="unknown:023035_0217_0FBADFF95C41DF18"/>
                   <l>Thou haſt compos'd the rapid winds,</l>
                   <l>And lull'd to reſt the foaming wave;</l>
                   <l>The clouds diſpers'd, each twinkling ſtar</l>
@@ -8498,7 +8499,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </lg>
             </div>
             <div type="poem">
-               <pb n="221" facs="tcp:023035_0218_0FBADFFA7A190FE8"/>
+               <pb n="221" facs="unknown:023035_0218_0FBADFFA7A190FE8"/>
                <head>To a <hi>YOUNG GENTLEMAN,</hi> reſiding in FRANCE.</head>
                <lg>
                   <l>THE new year opes—the early morning dawns,</l>
@@ -8536,7 +8537,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>The heaven born prize is not the gift of gold,</l>
                   <l>Of princes, ſtateſmen, or whole countries ſold;</l>
                   <l>
-                     <pb n="222" facs="tcp:023035_0219_0FBADFFC10C19CA0"/>'Tis not the lap of luxury diſplay'd</l>
+                     <pb n="222" facs="unknown:023035_0219_0FBADFFC10C19CA0"/>'Tis not the lap of luxury diſplay'd</l>
                   <l>In all the ſpoils of innocence betray'd;</l>
                   <l>Nor will the ſmiles of witlings or of kings,</l>
                   <l>The laugh licentious of ſuch motley things,</l>
@@ -8577,7 +8578,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>The Cyprian queen a thouſand lurements ſpread,</l>
                   <l>A modeſt glory crown'd Minerva's head;</l>
                   <l>
-                     <pb n="223" facs="tcp:023035_0220_0FBADFFFF1DC09C0"/>Pleaſure's bright nymph new deck'd her charming face,</l>
+                     <pb n="223" facs="unknown:023035_0220_0FBADFFFF1DC09C0"/>Pleaſure's bright nymph new deck'd her charming face,</l>
                   <l>But virtue beckon'd with a milder grace;</l>
                   <l>Love's little urchin, by his mother taught,</l>
                   <l>Ten thouſand joys in fancy's boſom wrought;</l>
@@ -8616,7 +8617,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>From envy's gulph the phantom ſeem'd to riſe,</l>
                   <l>His head he rear'd, and roll'd his redden'd eyes;</l>
                   <l>
-                     <pb n="224" facs="tcp:023035_0221_0FBAE001EA0D6568"/>His forky fang, and livid lip, reveal'd,</l>
+                     <pb n="224" facs="unknown:023035_0221_0FBAE001EA0D6568"/>His forky fang, and livid lip, reveal'd,</l>
                   <l>The crooked form, a gaudy veſt conceal'd;</l>
                   <l>Large tablets mark'd the monſter's gally breaſt,</l>
                   <l>And AV'RICE ſtood conſpicuous on his creſt;</l>
@@ -8652,7 +8653,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Yet in the field exalted heroes ſtand,</l>
                   <l>And, while he lives, may Waſhington command!</l>
                   <l>
-                     <pb n="225" facs="tcp:023035_0222_0FBAE00362D01C00"/>The ſocial virtues claim him for their own,</l>
+                     <pb n="225" facs="unknown:023035_0222_0FBAE00362D01C00"/>The ſocial virtues claim him for their own,</l>
                   <l>An hero born, fair freedom's favorite ſon;</l>
                   <l>Freſh myrtles ſpring, and never fading bays,</l>
                   <l>Live where he fought, and mark his glorious days;</l>
@@ -8690,7 +8691,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>And ſmile contempt on folly's pu'rile rage.</l>
                </lg>
                <lg>
-                  <pb n="226" facs="tcp:023035_0223_0FBAE006E7F57E00"/>
+                  <pb n="226" facs="unknown:023035_0223_0FBAE006E7F57E00"/>
                   <l>When wintry blaſts no more ſhall tear the plain,</l>
                   <l>And thy fond wiſhes bear thee o'er the main;</l>
                   <l>When ſoft Favonius fans the vernal breeze,</l>
@@ -8728,7 +8729,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>The fragrant banks, whoſe native borders riſe</l>
                   <l>In beauteous foliage of a thouſand dyes;</l>
                   <l>
-                     <pb n="227" facs="tcp:023035_0224_0FBAE007EC26FE68"/>The tufted flowers meet the cluſtering vine,</l>
+                     <pb n="227" facs="unknown:023035_0224_0FBAE007EC26FE68"/>The tufted flowers meet the cluſtering vine,</l>
                   <l>That wildly rambles o'er the conic pine;</l>
                   <l>The darkening cedars form the grotto's ſhade,</l>
                   <l>And greener willows fan the fertile glade;</l>
@@ -8764,7 +8765,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </closer>
             </div>
             <div type="poem">
-               <pb n="228" facs="tcp:023035_0225_0FBAE00A37481D68"/>
+               <pb n="228" facs="unknown:023035_0225_0FBAE00A37481D68"/>
                <head>To a patriotic Gentleman, who preſented a ſmall Book of Bark, requeſting a <hi>POEM</hi> might be written therein, on <hi>PRIM<g ref="char:EOLhyphen"/>ITIVE SIMPLICITY.</hi>
                </head>
                <lg>
@@ -8799,7 +8800,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>While the kind mother acts her little part,</l>
                   <l>And ſtamps the tablet on the infant heart,</l>
                   <l>
-                     <pb n="229" facs="tcp:023035_0226_0FBAE00B1E588248"/>Each fervent wiſh, I to my country lend,</l>
+                     <pb n="229" facs="unknown:023035_0226_0FBAE00B1E588248"/>Each fervent wiſh, I to my country lend,</l>
                   <l>And thus ſubſcribe, the pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>riot's faithful friend.</l>
@@ -8867,7 +8868,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Beſide whoſe gentle murm'ring ſtream there ſtood</l>
                   <l>The humble hamlet, by the peaſant trod,</l>
                   <l>
-                     <pb n="230" facs="tcp:023035_0227_0FBAE00E36D2ED68"/>Whoſe heart, unblacken'd by ſo mean a vice,</l>
+                     <pb n="230" facs="unknown:023035_0227_0FBAE00E36D2ED68"/>Whoſe heart, unblacken'd by ſo mean a vice,</l>
                   <l>As luſt of gold, or carking avarice;</l>
                   <l>No guilty bribes his whiten'd palm poſſeſs'd,</l>
                   <l>No dark ſuſpicion lurk'd within his breaſt:</l>
@@ -8910,7 +8911,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Thus happy that ideal golden age,</l>
                   <l>That lives deſcriptive in the poet's page;</l>
                   <l>
-                     <pb n="231" facs="tcp:023035_0228_0FBAE00F6BB28DD0"/>But now, alas! in dark oblivion loſt,</l>
+                     <pb n="231" facs="unknown:023035_0228_0FBAE00F6BB28DD0"/>But now, alas! in dark oblivion loſt,</l>
                   <l>The ſons of Adam know it to their coſt;</l>
                   <l>Since God forbad the mother of mankind</l>
                   <l>To taſte the fruit to which ſhe moſt inclin'd:</l>
@@ -8950,7 +8951,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>And worth, unblemiſh'd, is the villain's prey.</l>
                </lg>
                <lg>
-                  <pb n="232" facs="tcp:023035_0229_0FBAE010E586F6D0"/>
+                  <pb n="232" facs="unknown:023035_0229_0FBAE010E586F6D0"/>
                   <l>Eaſy the toil, and ſimple is the taſk,</l>
                   <l>That yields to man all nature bids him aſk;</l>
                   <l>And each improvement on the author's plan,</l>
@@ -8989,7 +8990,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>The muſe could ſtoop to gild a tyrant's crimes.</l>
                </lg>
                <lg>
-                  <pb n="233" facs="tcp:023035_0230_0FBAE01462F0FA10"/>
+                  <pb n="233" facs="unknown:023035_0230_0FBAE01462F0FA10"/>
                   <l>Then paint and ſculpture, elegance and ſong,</l>
                   <l>Were the purſuits of all the buſy throng;</l>
                   <l>When ſilken commerce held the golden ſcales,</l>
@@ -9030,7 +9031,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Wrapt in refinements both abſurd and vile.</l>
                </lg>
                <lg>
-                  <pb n="234" facs="tcp:023035_0231_0FBAE016DD0FE930"/>
+                  <pb n="234" facs="unknown:023035_0231_0FBAE016DD0FE930"/>
                   <l>Proud Thames deſerted—her commercial ports</l>
                   <l>Seiz'd and poſſeſs'd by hated foreign courts;</l>
                   <l>No more the lofty ſhips her marts ſupply,</l>
@@ -9059,7 +9060,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </closer>
             </div>
             <div type="poem">
-               <pb n="235" facs="tcp:023035_0232_0FBAE017A8536128"/>
+               <pb n="235" facs="unknown:023035_0232_0FBAE017A8536128"/>
                <head>On the <hi>DEATH</hi> of the Hon. <hi>JOHN WINTHROP,</hi> Eſq. L. L. D. <hi>HOLLISIAN PROFESSOR</hi> of <hi>MATHEMATICKS</hi> and <hi>NATURAL PHILOSO<g ref="char:EOLhyphen"/>PHY,</hi> at <hi>HARVARD COLLEGE, CAMBRIDGE.</hi>
                </head>
                <head type="sub">Addreſſed to his <hi>LADY.</hi>
@@ -9100,7 +9101,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>As life forſook his dying lids,</l>
                   <l>Faith view'd the glorious prize,</l>
                   <l>
-                     <pb n="236" facs="tcp:023035_0233_0FBAE01936416F50"/>Yet nature dropt a friendly tear</l>
+                     <pb n="236" facs="unknown:023035_0233_0FBAE01936416F50"/>Yet nature dropt a friendly tear</l>
                   <l>Before he reach'd the ſkies.</l>
                </lg>
                <lg>
@@ -9146,7 +9147,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>"Or gloomy Plato thought,</l>
                </lg>
                <lg>
-                  <pb n="237" facs="tcp:023035_0234_0FBAE01C6E3DA968"/>
+                  <pb n="237" facs="unknown:023035_0234_0FBAE01C6E3DA968"/>
                   <l>"Are but enthuſiaſtic dreams;</l>
                   <l>"And ſuch, the perfect code,</l>
                   <l>"Seal'd by a meſſenger divine,</l>
@@ -9192,7 +9193,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>The muſick of the ſpheres reſounds,</l>
                   <l>And haſten'd his delay,</l>
                   <l>
-                     <pb n="238" facs="tcp:023035_0235_0FBAE01DA8475B08"/>A cherub lower'd his golden wing</l>
+                     <pb n="238" facs="unknown:023035_0235_0FBAE01DA8475B08"/>A cherub lower'd his golden wing</l>
                   <l>To waft him on his way.</l>
                </lg>
                <lg>
@@ -9241,7 +9242,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>To bleſs the lov'd retreat.</l>
                </lg>
                <lg>
-                  <pb n="239" facs="tcp:023035_0236_0FBAE01F33608AC8"/>
+                  <pb n="239" facs="unknown:023035_0236_0FBAE01F33608AC8"/>
                   <l>The liſtening youth hung on the lip</l>
                   <l>Where ſoft inſtruction flow'd,</l>
                   <l>In every emulative breaſt</l>
@@ -9261,7 +9262,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </lg>
             </div>
             <div type="poem">
-               <pb n="240" facs="tcp:023035_0237_0FBAE0211129A570"/>
+               <pb n="240" facs="unknown:023035_0237_0FBAE0211129A570"/>
                <head>LINES, Written on the anniverſary of the death of Mr. <hi>C—W—,</hi> an amiable and accompliſhed young gentleman, who died in <hi>St. Lacar, 1785.</hi> His reſignation, fortitude, and piety, witneſſed the excellence of that religion which ſupported him with dignity and calmneſs, and through many months of lan<g ref="char:EOLhyphen"/>guid illneſs, reaſon juſtified to him the hope of the Chriſtian.</head>
                <epigraph>
                   <q>
@@ -9299,7 +9300,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>A burning hectic's ſecret fire betray'd,</l>
                   <l>'Till yielding nature bow'd his languid head;</l>
                   <l>
-                     <pb n="241" facs="tcp:023035_0238_0FBAE024C3D17E48"/>When ſtrangers' tears were ſprinkled o'er his grave,</l>
+                     <pb n="241" facs="unknown:023035_0238_0FBAE024C3D17E48"/>When ſtrangers' tears were ſprinkled o'er his grave,</l>
                   <l>From which no tears, nor virtue's ſelf could ſave.</l>
                   <l>Kind foreign hands have dreſs'd his ſacred urn,</l>
                   <l>While weeping friends in diſtant climates mourn;</l>
@@ -9338,7 +9339,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </lg>
             </div>
             <div type="poem">
-               <pb n="242" facs="tcp:023035_0239_0FBAE025E71D8108"/>
+               <pb n="242" facs="unknown:023035_0239_0FBAE025E71D8108"/>
                <head>To an amiable FRIEND, Mourning the <hi>DEATH</hi> of an excellent <hi>FATHER.</hi>
                </head>
                <lg>
@@ -9390,7 +9391,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      </gap>he laſt deciſive hour.</l>
                </lg>
                <lg>
-                  <pb n="243" facs="tcp:023035_0240_0FBAE02763BFB7D8"/>
+                  <pb n="243" facs="unknown:023035_0240_0FBAE02763BFB7D8"/>
                   <l>This dreaded tyrant throws his forky wand,</l>
                   <l>And mows down millions with reſiſtleſs hand;</l>
                   <l>From his reſearch no ſceptred prince can hide,</l>
@@ -9432,7 +9433,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Then weep no more, my friend, but all reſign'd,</l>
                   <l>Submit thy will to the eternal mind,</l>
                   <l>
-                     <pb n="244" facs="tcp:023035_0241_0FBAE02B060A2C50"/>Who watches o'er the movements of the juſt,</l>
+                     <pb n="244" facs="unknown:023035_0241_0FBAE02B060A2C50"/>Who watches o'er the movements of the juſt,</l>
                   <l>And will again reanimate the duſt.</l>
                   <l>Thy ſire commands—ſuppreſs the riſing ſigh—</l>
                   <l>He wipes the tear from thy too filial eye,</l>
@@ -9480,7 +9481,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                      </gap>rs,</l>
                   <l>Expand thy heart, and breathe a grateful prayer.</l>
                   <l>
-                     <pb n="245" facs="tcp:023035_0242_0FBAE02BE686B778"/>That when time's rapid car its courſe has run</l>
+                     <pb n="245" facs="unknown:023035_0242_0FBAE02BE686B778"/>That when time's rapid car its courſe has run</l>
                   <l>A few more circuits round the central ſun,</l>
                   <l>Thy friends and mine from death's umbrageous womb,</l>
                   <l>May burſt the manſions of the darkſome tomb,</l>
@@ -9493,7 +9494,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                </lg>
             </div>
             <div type="poem">
-               <pb n="246" facs="tcp:023035_0243_0FBAE02E6B2B73E0"/>
+               <pb n="246" facs="unknown:023035_0243_0FBAE02E6B2B73E0"/>
                <head>The <hi>GENIUS</hi> of <hi>AMERICA</hi> weeping the ab<g ref="char:EOLhyphen"/>ſurd <hi>FOLLIES</hi> of the <hi>DAY.</hi>—
 <date>October <hi>10,</hi> 1778.</date>
                </head>
@@ -9528,7 +9529,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>With kindred blood, warm from his brother's veins,</l>
                   <l>The crimſon flood each field and village ſtains;</l>
                   <l>
-                     <pb n="247" facs="tcp:023035_0244_0FBAE03150544858"/>Yet back recoil'd the reeking bloody hilt,</l>
+                     <pb n="247" facs="unknown:023035_0244_0FBAE03150544858"/>Yet back recoil'd the reeking bloody hilt,</l>
                   <l>And ſlaughter'd millions mark'd the tyrant's guilt.</l>
                </lg>
                <lg>
@@ -9570,7 +9571,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>"That virtue only made them brave and free."</l>
                </lg>
                <lg>
-                  <pb n="248" facs="tcp:023035_0245_0FBAE032B6FCB8A0"/>
+                  <pb n="248" facs="unknown:023035_0245_0FBAE032B6FCB8A0"/>
                   <l>The trump of war from ſhore to ſhore reſounds,</l>
                   <l>And the ſhrill echo o'er the vale rebounds;</l>
                   <l>The diſtant nations hear the dread alarm,</l>
@@ -9610,7 +9611,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Or crabbed Swift, in yet a rougher ſtile,</l>
                   <l>Might laſh the vices of a venal iſle;</l>
                   <l>
-                     <pb n="249" facs="tcp:023035_0246_0FBAE0365CE3CC38"/>If ſermons, ſatires, or the law of heaven,</l>
+                     <pb n="249" facs="unknown:023035_0246_0FBAE0365CE3CC38"/>If ſermons, ſatires, or the law of heaven,</l>
                   <l>(Though it again from Sinai's mount were given,)</l>
                   <l>Should all combine to cenſure modiſh vice,</l>
                   <l>It can't be wrong, when faſhion ſanctifies.</l>
@@ -9647,7 +9648,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Thoſe godlike men, thoſe lovers of mankind,</l>
                   <l>Have nought to retroſpect that pains the mind;</l>
                   <l>
-                     <pb n="250" facs="tcp:023035_0247_0FBAE03737FB44B0"/>Placid they move amidſt an heedleſs band,</l>
+                     <pb n="250" facs="unknown:023035_0247_0FBAE03737FB44B0"/>Placid they move amidſt an heedleſs band,</l>
                   <l>And ſigh in ſilence o'er a guilty land.</l>
                </lg>
                <lg>
@@ -9690,7 +9691,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Reaſon ſo clear, that e'en their pigmy race</l>
                   <l>Who ſwarm and cluſter in each public place,</l>
                   <l>
-                     <pb n="251" facs="tcp:023035_0248_0FBAE038C4A218A0"/>With ſcientific brow can demonſtrate,</l>
+                     <pb n="251" facs="unknown:023035_0248_0FBAE038C4A218A0"/>With ſcientific brow can demonſtrate,</l>
                   <l>Whate'er the pious ſage or prieſt may prate,</l>
                   <l>Virtue is an enthuſiaſtic dream,</l>
                   <l>Reveal'd religion, a long worn out theme.</l>
@@ -9730,7 +9731,7 @@ uſurpations and ſplendid crimes, have for ages furniſhed the hiſtorian and t
                   <l>Yet they aſſume a ſelf important air,</l>
                   <l>Or to confound, or proſelyte the fair,</l>
                   <l>
-                     <pb n="252" facs="tcp:023035_0249_0FBAE03C01BFAD78"/>Who no ideas have of other heaven,</l>
+                     <pb n="252" facs="unknown:023035_0249_0FBAE03C01BFAD78"/>Who no ideas have of other heaven,</l>
                   <l>If dreſs, parade, and a gallant is given;</l>
                   <l>Who rail aloud 'gainſt puritanic rules,</l>
                   <l>And learn their morals in deiſtic ſchools;</l>
